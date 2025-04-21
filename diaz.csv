@@ -1,0 +1,581 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+1,Acord,Maud,40,E.U. of North,female,1886-11-15,widowed,Diaz
+1,Acord,Secelia,24,E.U. of North,female,1886-11-15,single,Diaz
+1,Acord,Clara,22,E.U. of North,female,1886-11-15,single,Diaz
+1,Acord,Juan,16,E.U. of North,male,1886-11-15,,Diaz
+1,Acord,Eathel,14,E.U. of North,female,1886-11-15,,Diaz
+1,Acord,Minnie,7,Mexico,female,,,Diaz
+1,Acord,Hugh,4,Mexico,male,,,Diaz
+2,Acord,Marta,37,E.U. of North,female,1886-11-15,widowed,Diaz
+2,Acord,Hyrum,17,E.U. of North,male,1886-11-15,,Diaz
+2,Acord,Laura,15,E.U. of North,female,1886-11-15,,Diaz
+2,Acord,Alicia,13,E.U. of North,female,1886-11-15,,Diaz
+2,Acord,Blauch,8,Mexico,female,,,Diaz
+2,Acord,Ina,5,Mexico,female,,,Diaz
+3,Adams,Guillermo,39,E.U. of North,male,1887-08-27,married,Diaz
+3,Adams,Domen,28,E.U. of North,female,1887-08-27,married,Diaz
+3,Adams,Guillermo hijo,9,Mexico,male,,,Diaz
+3,Adams,Loran E.,7,Mexico,male,,,Diaz
+3,Adams,D. Edith,5,Mexico,female,,,Diaz
+3,Adams,Leroy,3,Mexico,male,,,Diaz
+4,Adams,Fe. G.,8/12,Mexico,male,,,Diaz
+4,Adams,Maria F.,35,E.U. of North,female,1885-03-08,single,Diaz
+5,Adams,J. J.,63,E.U. of North,male,1888-01-15,married,Diaz
+5,Adams,Maria A.,61,E.U. of North,female,1888-01-15,,Diaz
+5,Adams,W. W.,18,E.U. of North,male,1888-01-15,,Diaz
+6,Adams,Juan,39,E.U. of North,male,1891-02-01,married,Diaz
+6,Adams,Maria,36,E.U. of North,female,1891-02-01,married,Diaz
+6,Adams,Jerome,17,E.U. of North,male,1891-02-01,,Diaz
+6,Adams,Ysabel,14,E.U. of North,female,1891-02-01,,Diaz
+6,Adams,Ella,12,E.U. of North,female,1891-02-01,,Diaz
+6,Adams,Juan,12,E.U. of North,male,1891-02-01,,Diaz
+6,Adams,Quincy,11,E.U. of North,male,1891-02-01,,Diaz
+6,Adams,Alma,8,E.U. of North,male,1891-02-01,,Diaz
+6,Adams,Minnie,6,Mexico,female,,,Diaz
+6,Adams,Moroni,6,Mexico,male,,,Diaz
+6,Adams,Yshmael,4,Mexico,male,,,Diaz
+6,Adams,Raquel,4,Mexico,female,,,Diaz
+6,Adams,Delta,2,Mexico,female,,,Diaz
+6,Adams,May,1,Mexico,female,,,Diaz
+7,Anderson,Rasmus J.,40,E.U. of North,male,1898-01-22,married,Diaz
+8,Anderson,Naney,30,E.U. of North,female,1891-11-05,single,Diaz
+9,Anderson,Andrew,47,Denmark,male,1885,married,Diaz
+9,Anderson,Jannet,41,Scotland,female,1885,married,Diaz
+9,Anderson,A. W.,19,E.U. of North,female,1885,,Diaz
+9,Anderson,Monroe,14,E.U. of North,male,,,Diaz
+9,Anderson,Hans,12,Mexico,male,,,Diaz
+9,Anderson,Lorenzo,11,Mexico,male,,,Diaz
+9,Anderson,Berta,9,Mexico,female,,,Diaz
+9,Anderson,Misilva,6,Mexico,female,,,Diaz
+9,Anderson,Eliza,4,Mexico,female,,,Diaz
+9,Anderson,Roberto L.,1/12,Mexico,male,,,Diaz
+10,Beck,Erastus,44,Denmark,male,1891-10-18,married,Diaz
+10,Beck,Libby,29,E.U. of North,female,1891-10-18,married,Diaz
+10,Beck,Mariah,19,E.U. of North,male,1891-10-18,,Diaz
+10,Beck,Nels R.,16,E.U. of North,male,1891-10-18,,Diaz
+10,Beck,Simon,11,E.U. of North,female,1891-10-18,,Diaz
+10,Beck,Ynes,5,Mexico,female,,,Diaz
+10,Beck,Ferneth,4,Mexico,female,,,Diaz
+10,Beck,Edna,3,Mexico,female,,,Diaz
+10,Beck,Alta,1,Mexico,female,,,Diaz
+11,Bloomfield,Eliza,34,E.U. of North,female,1890-04-27,single,Diaz
+12,Brown,Azarian,28,E.U. of North,male,1890-04-27,married,Diaz
+12,Brown,Sara J.,26,E.U. of North,female,1890-04-27,married,Diaz
+12,Brown,Jennie M.,8,E.U. of North,female,1890-04-27,,Diaz
+12,Brown,Ralph A.,6,Mexico,male,,,Diaz
+12,Brown,Luisa A.,4,Mexico,female,,,Diaz
+12,Brown,Leah L.,2,Mexico,female,,,Diaz
+13,Brown,Luey,39,E.U. of North,female,1891-10,single,Diaz
+14,Cheney,Francisco,32,E.U. of North,male,,married,Diaz
+14,Cheney,Edith J.,27,E.U. of North,female,,married,Diaz
+14,Cheney,Edith L.,10,E.U. of North,female,,,Diaz
+14,Cheney,Leo H.,2,E.U. of North,male,,,Diaz
+14,Cheney,Juan H.,3/12,E.U. of North,male,,,Diaz
+15,Cram,Charlesetta,37,E.U. of North,female,,single,Diaz
+16,Donaldson,Juan,53,Scotland,male,1890-01,widowed,Diaz
+16,Donaldson,Juan W.,23,E.U. of North,male,1890-01,single,Diaz
+16,Donaldson,Samuel A.,19,E.U. of North,male,1890-01,,Diaz
+16,Donaldson,Hyrum S.,14,E.U. of North,male,1890-01,,Diaz
+16,Donaldson,Santiago R.,21,E.U. of North,male,1890-01,,Diaz
+16,Donaldson,Francisca,17,E.U. of North,female,1890-01,,Diaz
+16,Donaldson,Carl M.,1,Mexico,male,,,Diaz
+17,Done,Caralina,33,E.U. of North,female,1891-12-01,single,Diaz
+18,Earl,Juan H.,43,E.U. of North,male,1885-03-06,married,Diaz
+18,Earl,Ada,41,E.U. of North,female,1885-03-06,married,Diaz
+19,Elliot,Hannah,26,E.U. of North,female,1896-10-30,widowed,Diaz
+20,Fenn,Juan,43,England,male,1891-10,married,Diaz
+20,Fenn,Matilde,41,E.U. of North,female,1891-10,married,Diaz
+20,Fenn,Sara,15,E.U. of North,female,1891-10,,Diaz
+20,Fenn,Ema,13,E.U. of North,female,1891-10,,Diaz
+20,Fenn,Moroni,11,E.U. of North,male,1891-10,,Diaz
+20,Fenn,Parley,10,E.U. of North,male,1891-10,,Diaz
+20,Fenn,Maria Elena,9,E.U. of North,female,1891-10,,Diaz
+20,Fenn,Alvah,9,E.U. of North,male,1891-10,,Diaz
+20,Fenn,Santiago H.,7,E.U. of North,male,1891-10,,Diaz
+20,Fenn,Alicia,5,Mexico,female,,,Diaz
+20,Fenn,Welcome E.,5,Mexico,male,,,Diaz
+20,Fenn,Arturo,2,Mexico,male,,,Diaz
+20,Fenn,Myrtle M.,2,Mexico,female,,,Diaz
+20,Fenn,Gualterio L.,1,Mexico,male,,,Diaz
+20,Fenn,Geneva,2/12,Mexico,female,,,Diaz
+21,Fillerup,Carlos,25,E.U. of North,male,1896-11-16,married,Diaz
+21,Fillerup,Manita,16,E.U. of North,female,1896-11-16,married,Diaz
+22,Fillerup,Erastus K.,23,E.U. of North,male,1898-01-22,single,Diaz
+23,Fielding,Josue,34,E.U. of North,male,1897-03,married,Diaz
+23,Fielding,Martina E.,22,E.U. of North,female,1897-03,married,Diaz
+23,Fielding,Lola,2/12,Mexico,female,,,Diaz
+24,Fredrickson,Carl A.,44,Denmark,male,1889-12,married,Diaz
+24,Fredrickson,Mariah,50,Denmark,female,1889-12,married,Diaz
+24,Fredrickson,Carlos,16,E.U. of North,me,1889-12,,Diaz
+24,Fredrickson,Alma,14,E.U. of North,me,1889-12,,Diaz
+24,Fredrickson,Enriqueta,14,E.U. of North,female,1889-12,,Diaz
+24,Fredrickson,Eliza,13,E.U. of North,female,1889-12,,Diaz
+24,Fredrickson,Ema,12,E.U. of North,female,1889-12,,Diaz
+24,Fredrickson,Naney,11,E.U. of North,female,1889-12,,Diaz
+24,Fredrickson,Alicia,5,Mexico,female,,,Diaz
+24,Fredrickson,Lily,3,Mexico,female,,,Diaz
+25,Galbraith,Ysabel,54,E.U. of North,female,1889-10-11,widowed,Diaz
+25,Galbraith,David,15,E.U. of North,male,1889-10-11,,Diaz
+26,Galbraith,Pheobe,44,E.U. of North,female,1889-10-11,widowed,Diaz
+26,Galbraith,Lizzie F.,22,E.U. of North,female,1889-10-11,single,Diaz
+26,Galbraith,Enrique F.,20,E.U. of North,male,1889-10-11,single,Diaz
+26,Galbraith,Maggie F.,17,E.U. of North,female,1889-10-11,,Diaz
+26,Galbraith,Hattie,15,E.U. of North,female,1889-10-11,,Diaz
+26,Galbraith,Juan F.,12,E.U. of North,male,1889-10-11,,Diaz
+26,Galbraith,Francisco,10,E.U. of North,male,1889-10-11,,Diaz
+26,Galbraith,Carlos,7,Mexico,male,,,Diaz
+26,Galbraith,Wilkie,5,Mexico,male,,,Diaz
+26,Galbraith,Sheusen,2,Mexico,male,,,Diaz
+27,Galbraith,Cristobal L.,29,E.U. of North,male,1888-12,married,Diaz
+27,Galbraith,Maria H.,22,E.U. of North,female,1887-11-14,married,Diaz
+27,Galbraith,Maria J.,2,Mexico,female,,,Diaz
+27,Galbraith,Cristobal L. hijo,1/12,Mexico,male,,,Diaz
+28,Galbraith,Lillian Eva,31,England,female,1888-01-14,widowed,Diaz
+28,Galbraith,Edmund P.,9,Mexico,male,,,Diaz
+28,Galbraith,Wallace,6,Mexico,male,,,Diaz
+28,Galbraith,Douglas,4,Mexico,male,,,Diaz
+28,Galbraith,Melvin,2,Mexico,male,,,Diaz
+29,Galbraith,Ema,42,Africa,female,1889-01-01,widowed,Diaz
+29,Galbraith,Jose B.,17,E.U. of North,male,1889-01-01,,Diaz
+29,Galbraith,Roberto B.,14,E.U. of North,male,1889-01-01,,Diaz
+29,Galbraith,Lillian Eva,10,E.U. of North,female,1889-01-01,,Diaz
+29,Galbraith,Raffael,7,Mexico,female,,,Diaz
+29,Galbraith,Archibaldo,4,Mexico,male,,,Diaz
+30,Gibbons,Ana Eliza,24,E.U. of North,female,1895-10-01,widowed,Diaz
+30,Gibbons,Elna V.,5,E.U. of North,female,1895-10-01,,Diaz
+30,Elliott,Fawn W.,4,E.U. of North,male,1896-10,,Diaz
+30,Gibbons,Manly C.,2,E.U. of North,male,1896-10,,Diaz
+31,Gruwell,Meloun L.,64,E.U. of North,male,1887-07,married,Diaz
+31,Gruwell,Marta M.,43,E.U. of North,female,1887-10-09,married,Diaz
+31,Gruwell,Olverio,24,E.U. of North,male,1887-10-09,single,Diaz
+31,Gruwell,Millie,22,E.U. of North,female,1887-10-09,single,Diaz
+31,Gruwell,Josefa,19,E.U. of North,female,1887-10-09,single,Diaz
+31,Gruwell,Preston,17,E.U. of North,male,1887-10-09,single,Diaz
+31,Gruwell,Orvel,16,E.U. of North,male,1887-10-09,,Diaz
+31,Gruwell,Aaron,14,E.U. of North,male,1887-10-09,,Diaz
+31,Gruwell,Angus,12,E.U. of North,male,1887-10-09,,Diaz
+31,Gruwell,Lottie,9,Mexico,female,,,Diaz
+31,Gruwell,Lester,6,Mexico,male,,,Diaz
+31,Gruwell,Nora,6,Mexico,female,,,Diaz
+31,Gruwell,Claris,3,Mexico,female,,,Diaz
+31,Gruwell,Evah,1,Mexico,female,,,Diaz
+32,Harper,Said Maria,39,E.U. of North,female,,widowed,Diaz
+32,Harper,Blauch M.,12,E.U. of North,female,,,Diaz
+32,Harper,Elsia,10,E.U. of North,female,,,Diaz
+33,Harvey,Santiago D.,35,E.U. of North,male,1891-11-05,married,Diaz
+33,Harvey,Sara E.,32,E.U. of North,female,1891-11-05,married,Diaz
+33,Harvey,Douglas,8,E.U. of North,male,1891-11-05,,Diaz
+33,Harvey,Sara A.,6,Mexico,female,,,Diaz
+33,Harvey,Rafail,6,Mexico,male,,,Diaz
+33,Harvey,Santiago B.,4,Mexico,male,,,Diaz
+33,Harvey,Carlos A.,3,Mexico,male,,,Diaz
+33,Harvey,Guillermo,2,Mexico,male,,,Diaz
+33,Harvey,Bernal,8/12,Mexico,male,,,Diaz
+34,Hausen,Margarita,42,Denmark,female,1889-12-26,single,Diaz
+35,Hausen,Samon,55,Denmark,male,1891-12,married,Diaz
+35,Hausen,Luisa B.,18,E.U. of North,female,1891-12,,Diaz
+35,Hausen,Alberto S.,16,E.U. of North,male,1891-12,,Diaz
+36,Harris,Yda,33,E.U. of North,female,1885-03,widowed,Diaz
+36,Harris,Dora,15,E.U. of North,female,1885-03,,Diaz
+36,Harris,Jasper,13,Mexico,male,,,Diaz
+36,Harris,Silas,11,Mexico,male,,,Diaz
+36,Harris,Adelma,5,Mexico,female,,,Diaz
+37,Halden,Marta,28,E.U. of North,female,1886-06-02,widowed,Diaz
+37,Halden,Santiago,19,E.U. of North,male,1886-06-02,,Diaz
+37,Halden,Jose,17,E.U. of North,male,1886-06-02,,Diaz
+37,Halden,Julia,15,E.U. of North,female,1886-06-02,,Diaz
+37,Halden,Mitty,14,E.U. of North,female,1886-06-02,,Diaz
+37,Halden,Jorge,9,Mexico,male,,,Diaz
+37,Halden,Susana,7,Mexico,female,,,Diaz
+37,Halden,Edna,6,Mexico,female,,,Diaz
+37,Halden,Juan,4,Mexico,male,,,Diaz
+37,Halden,Maria,1,Mexico,female,,,Diaz
+38,Jacobson,Eliza,29,E.U. of North,female,1885-03,single,Diaz
+39,James,Jose H.,42,E.U. of North,male,1885-03-06,married,Diaz
+39,James,Ysabel S.,37,E.U. of North,female,1885-03-06,married,Diaz
+39,James,Maria,19,E.U. of North,female,1885-03-06,,Diaz
+39,James,Enriqueta,18,E.U. of North,female,1885-03-06,,Diaz
+39,James,Guillermo,16,E.U. of North,male,1885-03-06,,Diaz
+39,James,Alfrettie,14,E.U. of North,female,1885-03-06,,Diaz
+39,James,Heber,14,E.U. of North,male,1885-03-06,,Diaz
+39,James,Hannah,13,Mexico,female,,,Diaz
+39,James,Basheba,10,Mexico,female,,,Diaz
+39,James,Willard,9,Mexico,male,,,Diaz
+39,James,Hallister,8,Mexico,male,,,Diaz
+39,James,Jose,8,Mexico,male,,,Diaz
+39,James,Nellie,7,Mexico,female,,,Diaz
+39,James,Amos,6,Mexico,male,,,Diaz
+39,James,Elmer,5,Mexico,male,,,Diaz
+39,James,Adith,5,Mexico,female,,,Diaz
+39,James,Abinadi,2,Mexico,male,,,Diaz
+39,James,Orpha,3,Mexico,female,,,Diaz
+39,James,Roberto,10/12,Mexico,male,,,Diaz
+40,Jacobson,Santiago hijo,29,E.U. of North,male,1888-01,married,Diaz
+40,Jacobson,Enriqueta,24,E.U. of North,female,1888-01,married,Diaz
+40,Jacobson,Lela,5,Mexico,female,,,Diaz
+40,Jacobson,Keneth J.,3,Mexico,male,,,Diaz
+40,Jacobson,Willis L.,1,Mexico,male,,,Diaz
+41,Jacobson,Carolina R.,26,E.U. of North,female,,,Diaz
+42,Jackson,Jose B.,45,England,male,1890-07,married,Diaz
+42,Jackson,Maria E.,41,E.U. of North,female,1890-07,married,Diaz
+42,Jackson,Lillie,20,E.U. of North,female,1890-07,,Diaz
+42,Jackson,Alicia,18,E.U. of North,female,1890-07,,Diaz
+42,Jackson,Millicent,16,E.U. of North,female,1890-07,,Diaz
+42,Jackson,Dora,12,E.U. of North,female,1890-07,,Diaz
+42,Jackson,Rocksy,10,E.U. of North,female,1890-07,,Diaz
+42,Jackson,Juan Leon,8,Mexico,male,,,Diaz
+43,Jacobson,Santiago,64,Scotland,male,1888-01-11,widowed,Diaz
+43,Jacobson,Ramson P.,17,E.U. of North,male,1888-01-11,,Diaz
+43,Jacobson,Jessie M.,15,E.U. of North,male,1888-01-11,,Diaz
+44,Jensen,Andreu C.,42,E.U. of North,male,1890-10-01,married,Diaz
+44,Jensen,Susana,38,E.U. of North,female,1890-10-01,married,Diaz
+44,Jensen,N. Milton,15,E.U. of North,male,1890-10-01,,Diaz
+44,Jensen,Burton,14,E.U. of North,male,1890-10-01,,Diaz
+44,Jensen,Juan Enrique,11,E.U. of North,male,1890-10-01,,Diaz
+44,Jensen,Maria A.,7,Mexico,female,,,Diaz
+44,Jensen,David,6,Mexico,male,,,Diaz
+44,Jensen,Mildreu,5,Mexico,female,,,Diaz
+44,Jensen,Juana,4,Mexico,female,,,Diaz
+44,Jensen,Minerva,1,Mexico,female,,,Diaz
+45,Jorgenson,Annie M.,60,Denmark,female,1887-05,widowed,Diaz
+45,Jorgenson,Luis,27,E.U. of North,male,1887-05,single,Diaz
+45,Jorgenson,Ysabel,23,E.U. of North,female,1887-05,single,Diaz
+45,Jorgenson,Martina E.,18,E.U. of North,male,1887-05,single,Diaz
+46,Johnson,Maria,42,Denmark,female,1892-03,single,Diaz
+47,Johnson,Annie M.,30,E.U. of North,female,1891-04,single,Diaz
+48,Johnson,Juana C.,66,E.U. of North,female,1891-10,widowed,Diaz
+48,Johnson,Hannah J.,25,E.U. of North,female,1891-10,single,Diaz
+49,Johnson,Guillermo D.,48,E.U. of North,male,1885-04-20,married,Diaz
+49,Johnson,Lucia E.,39,E.U. of North,female,1885-04-20,married,Diaz
+49,Johnson,Leno M.,20,E.U. of North,male,1885-04-20,,Diaz
+49,Johnson,Yvan C.,14,E.U. of North,female,1885-04-20,,Diaz
+49,Johnson,Lucia,13,E.U. of North,female,1885-04-20,,Diaz
+49,Johnson,Ruthie,13,E.U. of North,female,1885-04-20,,Diaz
+49,Johnson,Juana C.,12,Mexico,female,,,Diaz
+49,Johnson,Elmer O.,11,Mexico,male,,,Diaz
+49,Johnson,Abia E.,10,Mexico,male,,,Diaz
+49,Johnson,Winnie,10,Mexico,female,,,Diaz
+49,Johnson,Viva,8,Mexico,female,,,Diaz
+49,Johnson,Beryl,7,Mexico,female,,,Diaz
+49,Johnson,Yvy,6,Mexico,female,,,Diaz
+49,Johnson,Ray P.,5,Mexico,male,,,Diaz
+49,Johnson,Bertriz,3,Mexico,female,,,Diaz
+49,Johnson,Lila,2,Mexico,female,,,Diaz
+50,Johnson,Elmer W.,44,E.U. of North,male,1887-11-14,married,Diaz
+50,Johnson,Maria J.,38,E.U. of North,female,1887-11-14,married,Diaz
+50,Johnson,Lulu,18,E.U. of North,female,1887-11-14,married,Diaz
+50,Johnson,Juana C.,15,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Junietta,15,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Julia,13,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Elmer W. hijo,13,E.U. of North,male,1887-11-14,,Diaz
+50,Johnson,Viola L.,11,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Abby,10,Mexico,female,,,Diaz
+50,Johnson,Verna,8,Mexico,female,,,Diaz
+50,Johnson,Tessa,8,Mexico,female,,,Diaz
+50,Johnson,Nita,5,Mexico,female,,,Diaz
+50,Johnson,Loran E.,3,Mexico,male,,,Diaz
+50,Johnson,Guillermo D.,3/12,Mexico,male,,,Diaz
+51,Johnson,Ana Mahisa,37,E.U. of North,female,1890-10-01,single,Diaz
+52,Johnson,Abia E.,35,E.U. of North,male,1892-04,married,Diaz
+52,Johnson,Violet B.,26,E.U. of North,female,1892-04,married,Diaz
+52,Johnson,Abia E.,6,Mexico,male,,,Diaz
+52,Johnson,Guillermo W.,4,Mexico,male,,,Diaz
+52,Johnson,Primrose,3,Mexico,male,,,Diaz
+52,Johnson,Santiago B.,6/12,Mexico,male,,,Diaz
+53,Johnson,J. P.,38,E.U. of North,male,1890-04-09,married,Diaz
+53,Johnson,Eliza J.,32,E.U. of North,female,1890-04-09,married,Diaz
+53,Johnson,Evah,14,E.U. of North,female,1890-04-09,,Diaz
+53,Johnson,Juan,12,E.U. of North,male,1890-04-09,,Diaz
+53,Johnson,Etta,12,E.U. of North,female,1890-04-09,,Diaz
+53,Johnson,Adelbert,10,E.U. of North,male,1890-04-09,,Diaz
+53,Johnson,Lucia,8,E.U. of North,female,1890-04-09,,Diaz
+53,Johnson,Berta,6,Mexico,female,,,Diaz
+53,Johnson,Leroy,4,Mexico,male,,,Diaz
+53,Johnson,Nellie,1,Mexico,female,,,Diaz
+54,Jorgenson,Cristobal,38,Denmark,male,1890-10-01,married,Diaz
+54,Jorgenson,Mariah,34,Denmark,female,1890-10-01,married,Diaz
+54,Jorgenson,Eduardo,18,E.U. of North,male,1890-10-01,,Diaz
+54,Jorgenson,Elnora,16,E.U. of North,female,1890-10-01,,Diaz
+54,Jorgenson,Guillermo,13,E.U. of North,male,1890-10-01,,Diaz
+54,Jorgenson,Sara,11,E.U. of North,female,1890-10-01,,Diaz
+54,Jorgenson,Jose,10,E.U. of North,male,1890-10-01,,Diaz
+54,Jorgenson,Francisco,9,E.U. of North,male,1890-10-01,,Diaz
+54,Jorgenson,Martina E.,7,Mexico,male,,,Diaz
+54,Jorgenson,Frederico,6,Mexico,male,,,Diaz
+54,Jorgenson,Yda,5,Mexico,female,,,Diaz
+54,Jorgenson,Nllie,4,Mexico,female,,,Diaz
+54,Jorgenson,Otilda,10/12,Mexico,female,,,Diaz
+54,Jorgenson,Leonardo,8/12,Mexico,male,,,Diaz
+55,Keeler,Abner E.,54,E.U. of North,male,1898-03-26,married,Diaz
+55,Keeler,Leah J.,46,E.U. of North,female,1898-03-26,married,Diaz
+55,Keeler,Carlos,27,E.U. of North,male,1898-03-26,single,Diaz
+55,Keeler,Edith M.,18,E.U. of North,female,1898-03-26,,Diaz
+55,Keeler,Abner A.,11,E.U. of North,male,1898-03-26,,Diaz
+55,Keeler,Vaeva,2,E.U. of North,female,1898-03-26,,Diaz
+56,Laws,Guillermo H.,48,England,male,1891-11-09,married,Diaz
+56,Laws,Jennie A.,42,E.U. of North,female,1891-11-09,married,Diaz
+56,Laws,Jennie A.,21,E.U. of North,female,1891-11-09,single,Diaz
+56,Laws,Guillermo D.,18,E.U. of North,male,1891-11-09,,Diaz
+56,Laws,Jenos M.,16,E.U. of North,male,1891-11-09,,Diaz
+56,Laws,Juilian,9,E.U. of North,male,1891-11-09,,Diaz
+56,Laws,Wilma H.,5,Mexico,female,,,Diaz
+57,Leavit,Teresa,31,E.U. of North,female,1887-01-27,single,Diaz
+58,Little,Santiago A.,76,E.U. of North,male,1891-11-10,married,Diaz
+58,Little,Ana M.,60,England,female,1891-11-10,married,Diaz
+59,Little,David,20,E.U. of North,male,1888,married,Diaz
+59,Little,Hettie,19,E.U. of North,female,1888,married,Diaz
+59,Little,Thelma,7/12,Mexico,female,,,Diaz
+60,Lemons,Pecho,42,E.U. of North,male,1896-10-30,married,Diaz
+60,Lemons,Sara,42,E.U. of North,female,1896-10-30,married,Diaz
+60,Lemons,P. Kimball,22,E.U. of North,male,1896-10-30,single,Diaz
+60,Lemons,Nora,20,E.U. of North,female,1896-10-30,single,Diaz
+60,Lemons,Vivian,16,E.U. of North,male,1896-10-30,,Diaz
+60,Lemons,Elna V.,12,E.U. of North,female,1896-10-30,,Diaz
+60,Lemons,Ren,7,E.U. of North,female,1896-10-30,,Diaz
+60,Lemons,Earl,8,E.U. of North,male,1896-10-30,,Diaz
+60,Lemons,Lelia,5,E.U. of North,female,1896-10-30,,Diaz
+61,Larsen,Hans,61,Denmark,male,1892-03-29,married,Diaz
+61,Larsen,Jensina D.,51,Denmark,female,1892-03-29,married,Diaz
+61,Larsen,Juan,27,E.U. of North,male,1892-03-29,single,Diaz
+62,Larsen,Rasmus,59,Denmark,male,1892-08-10,married,Diaz
+62,Larsen,Sophia,41,Denmark,female,1892-08-10,married,Diaz
+62,Larsen,Jose W.,5,Mexico,male,,,Diaz
+62,Larsen,Alvin M.,1,Mexico,male,,,Diaz
+63,Larsen,Maria E.,35,E.U. of North,female,1891-03,single,Diaz
+64,Marble,Lucy,42,E.U. of North,female,1885-02-23,single,Diaz
+65,Merrill,C. W.,49,E.U. of North,male,1885-03-08,married,Diaz
+65,Merrill,Maria M.,46,E.U. of North,female,1885-03-08,married,Diaz
+65,Merrill,Cara M.,17,E.U. of North,female,1885-03-08,,Diaz
+65,Merrill,Guillermo W.,15,E.U. of North,male,1885-03-08,,Diaz
+65,Merrill,Rhoda A.,15,E.U. of North,female,1885-03-08,,Diaz
+65,Merrill,Fenley F.,13,E.U. of North,male,1885-03-08,,Diaz
+65,Merrill,Carlos W.,12,Mexico,male,,,Diaz
+65,Merrill,Maria B.,11,Mexico,female,,,Diaz
+65,Merrill,Ernesto L.,9,Mexico,male,,,Diaz
+65,Merrill,Orson,7,Mexico,male,,,Diaz
+65,Merrill,Ines,5,Mexico,female,,,Diaz
+65,Merrill,Vern,2,Mexico,male,,,Diaz
+66,Mortenson,Jose,28,E.U. of North,male,1885,married,Diaz
+66,Mortenson,Cora A.,24,E.U. of North,female,1885,married,Diaz
+66,Mortenson,Emilia L.,2,Mexico,female,,,Diaz
+66,Mortenson,Jose C.,8/12,Mexico,male,,,Diaz
+67,Mortenson,Alfred,23,E.U. of North,male,1886-12-01,married,Diaz
+67,Mortenson,Lucia,19,E.U. of North,female,1886-05-30,married,Diaz
+67,Mortenson,Blithe,11/12,Mexico,female,,,Diaz
+68,Mortenson,Laurity,25,E.U. of North,male,1889,married,Diaz
+68,Mortenson,Amata E.,25,E.U. of North,female,1889,married,Diaz
+68,Mortenson,Bernice,1,Mexico,male,,,Diaz
+69,Mortenson,Martina,52,Denmark,female,1885-11-16,widowed,Diaz
+69,Mortenson,Alma,24,E.U. of North,male,1885-11-16,single,Diaz
+69,Mortenson,Francisco,18,E.U. of North,male,1885-11-16,,Diaz
+69,Mortenson,Nephi,16,E.U. of North,male,1885-11-16,,Diaz
+69,Mortenson,Willford,14,E.U. of North,male,1885-11-16,,Diaz
+70,Mortenson,Jose,27,E.U. of North,male,1886-05-20,married,Diaz
+70,Mortenson,Cora A.,23,E.U. of North,female,1886-05-20,married,Diaz
+70,Mortenson,Emillia,3,Mexico,female,,,Diaz
+70,Mortenson,Cleau,8/12,Mexico,female,,,Diaz
+71,Mortenson,Pedro,27,E.U. of North,male,1887,married,Diaz
+71,Mortenson,Maria C.,22,E.U. of North,female,1887,married,Diaz
+71,Mortenson,Pedro A.,3,Mexico,male,,,Diaz
+71,Mortenson,Roberto,1,Mexico,male,,,Diaz
+72,Mortenson,Ferna,50,Denmark,female,1886-03-25,widowed,Diaz
+72,Mortenson,Emma F.,22,E.U. of North,female,1886-03-25,single,Diaz
+72,Mortenson,Maria A.,19,E.U. of North,female,1886-03-25,single,Diaz
+72,Mortenson,Dagmar C.,17,E.U. of North,female,1886-03-25,single,Diaz
+72,Mortenson,Hans,14,E.U. of North,male,1886-03-25,single,Diaz
+72,Mortenson,Rachel,13,E.U. of North,female,1886-03-25,,Diaz
+72,Mortenson,Amanda,10,Mexico,female,,,Diaz
+72,Mortenson,Andres,8,Mexico,male,,,Diaz
+73,Mortenson,Dorthea,58,Denmark,female,1887-08,widowed,Diaz
+73,Mortenson,Hyrum K.,25,E.U. of North,male,1887-08,single,Diaz
+73,Mortenson,Elena B.,21,E.U. of North,female,1887-08,single,Diaz
+74,Maybin,Patrick,58,Ireland,male,1889-11-07,married,Diaz
+74,Maybin,Marta,59,Ireland,female,1889-11-07,married,Diaz
+74,Maybin,Santiago,17,Ireland,male,1889-11-07,,Diaz
+74,Maybin,Marta,1,Mexico,female,,,Diaz
+75,Maybin,Juan,32,Ireland,male,1889-11-07,married,Diaz
+75,Maybin,Roxie,33,E.U. of North,female,1889-11-07,married,Diaz
+76,Maybin,Roberto,21,E.U. of North,male,1889-11-07,married,Diaz
+76,Maybin,Ennice,18,E.U. of North,female,1889-11-07,married,Diaz
+77,McIlvaing,Eliza,40,Ireland,female,1889-11-07,single,Diaz
+78,Moon,Juan T.,54,E.U. of North,male,1891-03-16,married,Diaz
+78,Moon,Enriqueta,28,E.U. of North,female,1891-03-16,married,Diaz
+78,Moon,Clarence,7,Mexico,female,,,Diaz
+78,Moon,Edith M.,5,Mexico,female,,,Diaz
+78,Moon,Ray P.,3,Mexico,male,,,Diaz
+78,Moon,Harold,6/12,Mexico,male,,,Diaz
+79,Norton,Jacob W.,67,E.U. of North,male,1885-02-23,married,Diaz
+79,Norton,Clefti A.,49,E.U. of North,female,1887-06,married,Diaz
+79,Norton,Juan H.,23,E.U. of North,male,1887-06,single,Diaz
+79,Norton,Jorge R.,15,E.U. of North,male,1887-06,,Diaz
+79,Norton,Hyrum B.,14,E.U. of North,male,1887-06,,Diaz
+79,Norton,Haron S.,13,E.U. of North,male,1887-06,,Diaz
+79,Norton,Lillie P,11,Mexico,female,,,Diaz
+79,Norton,Eliza R.,7,Mexico,female,,,Diaz
+80,Orton,Julia A.,36,E.U. of North,female,1887-11-14,single,Diaz
+81,Peterson,Andres,43,Denmark,male,1887-08-07,married,Diaz
+81,Peterson,Elzina,37,E.U. of North,female,1887-08-07,married,Diaz
+81,Peterson,Elsie,18,E.U. of North,female,,,Diaz
+81,Peterson,Andres hijo,16,E.U. of North,male,,,Diaz
+81,Peterson,Rulon,13,E.U. of North,male,,,Diaz
+81,Peterson,Ruth,8,Mexico,female,,,Diaz
+81,Peterson,Adelbert,5,Mexico,male,,,Diaz
+81,Peterson,Carlos,2,Mexico,male,,,Diaz
+82,Peterson,Francisco,48,Denmark,male,1890-05-04,married,Diaz
+82,Peterson,Luisa,26,Denmark,female,1890-05-04,married,Diaz
+82,Peterson,Maria,6,Mexico,female,,,Diaz
+82,Peterson,Enrique,4,Mexico,male,,,Diaz
+82,Peterson,Ester,4,Mexico,female,,,Diaz
+82,Peterson,Lorenzo,2,Mexico,male,,,Diaz
+82,Peterson,Luisa,10/12,Mexico,female,,,Diaz
+83,Pierce,Juan M.,36,E.U. of North,male,1897-12-31,married,Diaz
+83,Pierce,Christina,37,E.U. of North,female,1897-12-31,married,Diaz
+83,Pierce,Elna,14,E.U. of North,female,1897-12-31,,Diaz
+83,Pierce,Maria,12,E.U. of North,female,1897-12-31,,Diaz
+83,Pierce,Wynona,9,E.U. of North,female,1897-12-31,,Diaz
+83,Pierce,Ferna,7,E.U. of North,female,1897-12-31,,Diaz
+83,Pierce,Melvin,5,E.U. of North,male,1897-12-31,,Diaz
+83,Pierce,Carlos,3,E.U. of North,male,1897-12-31,,Diaz
+83,Pierce,Riva,7/12,E.U. of North,female,1897-12-31,,Diaz
+84,Pierce,Ysaac W.,59,E.U. of North,male,1891-12-01,married,Diaz
+84,Pierce,Elna C.,56,Scotland,female,1891-12-01,married,Diaz
+84,Pierce,Eva R.,16,E.U. of North,female,1891-12-01,,Diaz
+84,Pierce,Arwell L.,16,E.U. of North,male,1891-12-01,,Diaz
+84,Pierce,Ruby,12,E.U. of North,female,1891-12-01,,Diaz
+84,Pierce,Ada D.,9,E.U. of North,female,1891-12-01,,Diaz
+84,Pierce,Vera J.,4,Mexico,female,,,Diaz
+84,Pierce,Clide D.,2,Mexico,male,,,Diaz
+85,Pierce,Phoebe,33,E.U. of North,female,1886-10-30,single,Diaz
+86,Pierce,Ysac W.,32,E.U. of North,male,1896-12-31,married,Diaz
+86,Pierce,Francisca R.,28,E.U. of North,female,1896-12-31,married,Diaz
+86,Pierce,Maria E.,11,E.U. of North,female,1896-12-31,,Diaz
+86,Pierce,Juan W.,9,E.U. of North,male,1896-12-31,,Diaz
+86,Pierce,Miele,4,E.U. of North,female,1896-12-31,,Diaz
+86,Pierce,Guillermo,1,Mexico,male,,,Diaz
+87,Richens,Carlos,70,England,male,1890,married,Diaz
+87,Richens,Agnes M.,40,England,female,1890,married,Diaz
+87,Richens,Jessie,19,England,male,1890,,Diaz
+87,Richens,Lois E.,14,England,female,1890,,Diaz
+87,Richens,Agnes P.,12,England,female,1890,,Diaz
+87,Richens,Beatriz,7,Mexico,female,,,Diaz
+87,Richens,Juan,3,Mexico,male,,,Diaz
+87,Richens,E. Roxy,1,Mexico,female,,,Diaz
+87,Richens,Maria,7,Mexico,female,,,Diaz
+87,Richens,Orson,7,Mexico,male,,,Diaz
+87,Richens,Golda Y. I.,5,Mexico,female,,,Diaz
+87,Richens,Marbin,2,Mexico,male,,,Diaz
+87,Richens,Jorge,2,Mexico,male,,,Diaz
+88,Richens,Orson,36,E.U. of North,male,1890,married,Diaz
+88,Richens,Rachel,38,E.U. of North,female,1890,married,Diaz
+88,Richens,Judith,16,E.U. of North,female,1890,,Diaz
+88,Richens,Orvil O.,15,E.U. of North,male,1890,,Diaz
+88,Richens,Rebeca R.,13,E.U. of North,female,,,Diaz
+88,Richens,Parley C.,12,E.U. of North,male,,,Diaz
+89,Riggs,Maria A.,35,E.U. of North,female,1885-04-20,single,Diaz
+90,Rogers,Orpha A.,37,E.U. of North,female,1887-01-03,single,Diaz
+91,Rogers,Sara J.,42,E.U. of North,female,1887-01-03,single,Diaz
+92,Richardson,Edmund,40,E.U. of North,male,1887-08-24,married,Diaz
+92,Richardson,Sadie,31,E.U. of North,female,1887-08-24,married,Diaz
+92,Richardson,Maria L.,15,E.U. of North,female,1887-08-24,,Diaz
+92,Richardson,Edmund,15,E.U. of North,male,1887-08-24,,Diaz
+92,Richardson,Sullivan,12,E.U. of North,male,1887-08-24,,Diaz
+92,Richardson,Annie,9,Mexico,female,,,Diaz
+92,Richardson,Mark,8,Mexico,male,,,Diaz
+92,Richardson,Hazel,7,Mexico,female,,,Diaz
+92,Richardson,Alta,4,Mexico,female,,,Diaz
+92,Richardson,Edna,4,Mexico,female,,,Diaz
+92,Richardson,Leon,4,Mexico,male,,,Diaz
+92,Richardson,Leanor,3,Mexico,female,,,Diaz
+92,Richardson,Ray,2,Mexico,male,,,Diaz
+92,Richardson,Madge,6/12,Mexico,female,,,Diaz
+92,Richardson,Mabel,2/12,Mexico,female,,,Diaz
+93,Richardson,Sullivan C.,36,E.U. of North,male,1885-02-27,married,Diaz
+93,Richardson,Irena,35,E.U. of North,female,1885-02-27,married,Diaz
+93,Richardson,Edmund,13,Mexico,male,,,Diaz
+93,Richardson,Ralph,10,Mexico,male,,,Diaz
+93,Richardson,Mynoa,9,E.U. of North,female,,,Diaz
+93,Richardson,Annie,3,E.U. of North,female,,,Diaz
+93,Richardson,Pablo,1,E.U. of North,male,,,Diaz
+93,Richardson,Gilbert,7,Mexico,male,,,Diaz
+93,Richardson,Isel,5,Mexico,male,,,Diaz
+93,Richardson,Liono,1,Mexico,male,,,Diaz
+94,Rowley,Jessie N.,24,E.U. of North,male,1890,married,Diaz
+94,Rowley,Lucia E.,24,E.U. of North,female,1890,married,Diaz
+94,Rowley,Emilia B.,1,Mexico,female,,,Diaz
+95,Rowley,Heber C.,22,E.U. of North,male,1890,married,Diaz
+95,Rowley,Carolina M.,21,E.U. of North,female,1890,married,Diaz
+96,Rowley,Juan S.,31,E.U. of North,male,1898-03-18,married,Diaz
+96,Rowley,Eliza,24,E.U. of North,female,1898-03-18,married,Diaz
+96,Rowley,Maria,6,E.U. of North,female,1898-03-18,,Diaz
+96,Rowley,Claude,2,E.U. of North,male,1898-03-18,,Diaz
+97,Rowley,Maria Ann,50,England,female,1889-03-18,widowed,Diaz
+97,Rowley,Santiago,20,E.U. of North,male,1889-03-18,,Diaz
+97,Rowley,Wilford,12,E.U. of North,male,1889-03-18,,Diaz
+97,Rowley,Luella,10,E.U. of North,female,,,Diaz
+98,Sauders,Moses M.,45,E.U. of North,male,1885,married,Diaz
+98,Sauders,Ysabel E.,41,E.U. of North,female,1885,married,Diaz
+98,Sauders,Martin F.,24,E.U. of North,male,1885,single,Diaz
+98,Sauders,David W.,22,E.U. of North,male,1885,single,Diaz
+98,Sauders,Jose L.,19,E.U. of North,male,1885,,Diaz
+98,Sauders,Juan E.,17,E.U. of North,male,1885,,Diaz
+98,Sauders,Ysabel S.,16,E.U. of North,female,1885,,Diaz
+98,Sauders,Santiago R.,15,E.U. of North,male,1885,,Diaz
+98,Sauders,Ethel M.,14,E.U. of North,female,1885,,Diaz
+98,Sauders,Moses E.,13,E.U. of North,male,1885,,Diaz
+98,Sauders,Jorge H.,11,Mexico,male,,,Diaz
+98,Sauders,Maud M.,11,Mexico,female,,,Diaz
+98,Sauders,Hyrum P.,9,Mexico,male,,,Diaz
+98,Sauders,Carlos A.,6,Mexico,male,,,Diaz
+98,Sauders,Fransico F.,3,Mexico,male,,,Diaz
+98,Sauders,Edwin,6,Mexico,female,,,Diaz
+98,Sauders,Regnial M.,1,Mexico,male,,,Diaz
+98,Sauders,Lee W.,1,Mexico,male,,,Diaz
+99,Star,Lora,40,E.U. of North,female,1885,single,Diaz
+100,Tenney,Nathan C.,26,E.U. of North,male,1885,married,Diaz
+100,Tenney,I Pearl,20,E.U. of North,female,1885,married,Diaz
+100,Tenney,Luisa I.,5/12,Mexico,female,,,Diaz
+101,Tenney,Ammon M. hijo,29,E.U. of North,male,1887-07-20,married,Diaz
+101,Tenney,Amanda T.,23,E.U. of North,female,1887-07-20,married,Diaz
+101,Tenney,Ammon,1,Mexico,male,,,Diaz
+102,Tenney,Annie S.,48,E.U. of North,female,1889-07,widowed,Diaz
+102,Tenney,Levi S.,24,E.U. of North,male,1889-07,single,Diaz
+102,Tenney,Lois J.,18,E.U. of North,female,1889-07,,Diaz
+102,Tenney,Rosellia,14,E.U. of North,female,1889-07,,Diaz
+102,Tenney,Lourline,7,Mexico,female,,,Diaz
+103,Thayne,Nephi,48,Canada,male,1891-03,married,Diaz
+103,Thayne,Ysabel,43,E.U. of North,female,1891-03,married,Diaz
+103,Thayne,Nephi W.,23,E.U. of North,male,1891-03,single,Diaz
+103,Thayne,Elmer N.,16,E.U. of North,male,1891-03,,Diaz
+103,Thayne,Ysabel,13,E.U. of North,female,1891-03,,Diaz
+103,Thayne,Jina D.,12,E.U. of North,female,1891-03,,Diaz
+103,Thayne,Walter W.,9,E.U. of North,male,1891-03,,Diaz
+103,Thayne,Ella May,6,Mexico,female,,,Diaz
+103,Thayne,Yda M.,4,Mexico,female,,,Diaz
+103,Thayne,Alvin C.,5/12,Mexico,male,,,Diaz
+104,Thygerson,Sorn C.,75,Denmark,male,1891-12-20,married,Diaz
+104,Thygerson,Hannah,40,Denmark,female,1891-12-20,married,Diaz
+104,Thygerson,Jose,21,E.U. of North,male,1891-12-20,,Diaz
+104,Thygerson,Erastus,20,E.U. of North,male,,,Diaz
+104,Thygerson,David W.,17,E.U. of North,male,,,Diaz
+104,Thygerson,Alvin,14,E.U. of North,male,,,Diaz
+104,Thygerson,Eugene,10,E.U. of North,male,,,Diaz
+105,Whiting,Carlos,46,E.U. of North,male,1885-03,married,Diaz
+105,Whiting,Verona,40,E.U. of North,female,1885-03,married,Diaz
+105,Whiting,Pearl,21,E.U. of North,female,1885-03,,Diaz
+105,Whiting,Alice,19,E.U. of North,female,1885-03,,Diaz
+105,Whiting,Carlos,17,E.U. of North,male,1885-03,,Diaz
+105,Whiting,Bernard,15,E.U. of North,male,1885-03,,Diaz
+105,Whiting,Grancisco,13,E.U. of North,male,1885-03,,Diaz
+105,Whiting,Amata,10,Mexico,female,,,Diaz
+105,Whiting,Juan,8,Mexico,male,,,Diaz
+105,Whiting,Ferederico,7,Mexico,male,,,Diaz
+105,Whiting,Myrtle,6,Mexico,female,,,Diaz
+105,Whiting,May,4,Mexico,female,,,Diaz
+105,Whiting,Ester,2,Mexico,female,,,Diaz
+106,Wilson,Anettie,35,E.U. of North,female,1891-04-01,widowed,Diaz
+106,Wilson,Oliver E.,15,E.U. of North,male,1891-04-01,,Diaz
+106,Wilson,Annetta L.,13,E.U. of North,female,1891-04-01,,Diaz
+106,Wilson,Maria E.,11,E.U. of North,female,1891-04-01,,Diaz
+106,Wilson,Allace,8,E.U. of North,male,1891-04-01,,Diaz
+106,Wilson,Aaron E.,5,Mexico,male,,,Diaz
+106,Wilson,Rosella,3,Mexico,female,,,Diaz

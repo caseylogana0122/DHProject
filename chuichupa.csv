@@ -1,0 +1,99 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+1,Bronon,Juan W.,41,E.U. of North,male,1895-05-15,married,Chuichupa
+1,Bronon,Sara E.,31,E.U. of North,female,1895-05-15,married,Chuichupa
+1,Bronon,Major L.,9,E.U. of North,male,1895-05-15,,Chuichupa
+1,Bronon,Elvis J.,8,E.U. of North,male,1895-05-15,,Chuichupa
+1,Bronon,Cabert D.,7,E.U. of North,male,1895-05-15,,Chuichupa
+1,Bronon,Nellie M.,5,E.U. of North,female,1895-05-15,,Chuichupa
+1,Bronon,Katie,3,Mexico,female,,,Chuichupa
+1,Bronon,Juan W. hijo,10/12,Mexico,male,,,Chuichupa
+2,Carlton,Santiago H.,55,E.U. of North,male,1894-08,married,Chuichupa
+2,Carlton,Diadamia,41,E.U. of North,female,1894-08,married,Chuichupa
+2,Carlton,Alice,18,E.U. of North,female,1894-08,,Chuichupa
+2,Carlton,Lehi,13,E.U. of North,male,1894-08,,Chuichupa
+2,Carlton,Ruth,10,E.U. of North,female,1894-08,,Chuichupa
+2,Carlton,Joel E.,7,Mexico,male,,,Chuichupa
+2,Carlton,Clara,4,Mexico,female,,,Chuichupa
+2,Carlton,Guillermo,1,Mexico,male,,,Chuichupa
+3,Carlton,Santiago H. hijo,23,E.U. of North,male,1894-08,married,Chuichupa
+3,Carlton,Nora,21,E.U. of North,female,1894-08,married,Chuichupa
+4,Cox,Amos,42,E.U. of North,male,1894-10,married,Chuichupa
+4,Cox,Sara A.,39,E.U. of North,female,1894-10,married,Chuichupa
+4,Cox,Clecia,3,Mexico,female,,,Chuichupa
+4,Cox,Maria D.,3/12,Mexico,female,,,Chuichupa
+5,Chestnut,Grace,26,E.U. of North,female,1894-10,single,Chuichupa
+6,Chestnut,Alma,18,E.U. of North,male,1898-04-18,married,Chuichupa
+6,Chestnut,Gertrude A.,17,England,female,1898-04-18,married,Chuichupa
+7,Chestnut,Enrique,68,Ireland,male,1898-04-18,married,Chuichupa
+7,Chestnut,Grace,48,Scotland,female,1898-04-18,married,Chuichupa
+7,Chestnut,Guillermo,18,E.U. of North,male,1898-04-18,,Chuichupa
+7,Chestnut,Jose,13,E.U. of North,male,1898-04-18,,Chuichupa
+8,Hakes,Enrique,29,E.U. of North,female,1894-05-01,single,Chuichupa
+9,Johnson,Jorge H.,21,E.U. of North,male,1894,single,Chuichupa
+10,Johnson,Benjaminio A.,41,E.U. of North,male,1895-05-01,married,Chuichupa
+10,Johnson,Ysabel M.,52,E.U. of North,female,1895-05-01,married,Chuichupa
+10,Johnson,Benjaminio L.,18,E.U. of North,male,1895-05-01,,Chuichupa
+10,Johnson,Francisco L.,18,E.U. of North,male,1895-05-01,,Chuichupa
+10,Johnson,Ysabel M.,15,E.U. of North,female,1895-05-01,,Chuichupa
+10,Johnson,Shirley H.,12,E.U. of North,male,1895-05-01,,Chuichupa
+10,Johnson,Vernon R.,7,Mexico,male,,,Chuichupa
+10,Johnson,Annie M.,4,Mexico,female,,,Chuichupa
+10,Johnson,Julio R.,2,Mexico,male,,,Chuichupa
+10,Johnson,Clyde R.,6/12,Mexico,male,,,Chuichupa
+11,Judel,Jerome J.,30,E.U. of North,male,1886-03-18,married,Chuichupa
+11,Judel,Cynthia A.,25,E.U. of North,female,1886-03-18,married,Chuichupa
+11,Judel,David J.,4,Mexico,male,,,Chuichupa
+11,Judel,Cynthia S.,2,Mexico,female,,,Chuichupa
+11,Judel,Greta A.,10/12,Mexico,female,,,Chuichupa
+12,Judel,Sara,36,E.U. of North,female,,widowed,Chuichupa
+12,Judel,Paraler A.,17,E.U. of North,female,,,Chuichupa
+12,Judel,Maria E.,15,E.U. of North,female,,,Chuichupa
+12,Judel,Don C.,11,Mexico,male,,,Chuichupa
+12,Judel,Snil G.,8,Mexico,male,,,Chuichupa
+12,Judel,Jennie,6,Mexico,female,,,Chuichupa
+12,Judel,Edgar R.,10/12,Mexico,male,,,Chuichupa
+13,Martineau,Enrique,46,E.U. of North,male,,married,Chuichupa
+13,Martineau,Melissa,39,E.U. of North,female,,married,Chuichupa
+13,Martineau,Carlos H.,21,E.U. of North,male,,single,Chuichupa
+13,Martineau,Berta M.,18,E.U. of North,female,,single,Chuichupa
+13,Martineau,Lois,12,E.U. of North,female,,,Chuichupa
+13,Martineau,Yda,8,E.U. of North,female,,,Chuichupa
+13,Martineau,Howard,6,Mexico,male,,,Chuichupa
+13,Martineau,Adelaide,3,Mexico,female,,,Chuichupa
+14,Martineau,Sara S.,35,E.U. of North,female,,widowed,Chuichupa
+14,Martineau,Santiago E. ,18,E.U. of North,male,,,Chuichupa
+14,Martineau,Sextus H.,13,E.U. of North,male,,,Chuichupa
+14,Martineau,Editha,12,E.U. of North,female,,,Chuichupa
+14,Martineau,Leo,10,E.U. of North,male,,,Chuichupa
+14,Martineau,Susan,8,E.U. of North,female,,,Chuichupa
+14,Martineau,Vernon R.,5,E.U. of North,male,,,Chuichupa
+14,Martineau,Anne,4,E.U. of North,female,,,Chuichupa
+14,Martineau,Heleman,2,E.U. of North,male,,,Chuichupa
+15,Russell,Sara E.,55,E.U. of North,female,,single,Chuichupa
+15,Russell,Carolina,43,England,female,,widowed,Chuichupa
+15,Russell,Carolina hija,15,England,female,,,Chuichupa
+15,Russell,Jorge E.,8,Mexico,male,,,Chuichupa
+15,Russell,Maria P.,6,Mexico,female,,,Chuichupa
+15,Russell,Francisco,5,Mexico,male,,,Chuichupa
+15,Russell,Ricardo,2,Mexico,male,,,Chuichupa
+17,Trejo,Milton G.,55,Spain,male,1897-10-01,married,Chuichupa
+17,Trejo,Emilia,35,England,female,1897-10-01,married,Chuichupa
+17,Trejo,Sara E.,10,E.U. of North,female,1897-10-01,,Chuichupa
+17,Trejo,Milton J.,7,E.U. of North,male,1897-10-01,,Chuichupa
+17,Trejo,Jared J.,5,E.U. of North,male,1897-10-01,,Chuichupa
+17,Trejo,Carlos H.,3,E.U. of North,male,1897-10-01,,Chuichupa
+17,Trejo,Ysabel G.,9/12,Mexico,female,,,Chuichupa
+18,Reese,E. L.,45,American,male,1900-12-12,married,Chuichupa
+18,Reese,Nellie K.,37,American,female,1900-12-12,married,Chuichupa
+18,Reese,Ellen L.,8,American,female,1900-12-12,,Chuichupa
+18,Reese,Juan K.,5,American,female,1900-12-12,,Chuichupa
+19,William,Juan,24,American,male,1903-10-15,married,Chuichupa
+19,William,Susie D.,21,American,female,1903-10-15,married,Chuichupa
+20,Clark,Jose,37,American,male,1899-11-21,married,Chuichupa
+20,Clark,Alice,34,American,female,1899-11-21,married,Chuichupa
+20,Clark,Myrtle,12,American,female,1899-11-21,,Chuichupa
+20,Clark,Caughn,10,American,female,1899-11-21,,Chuichupa
+20,Clark,Jose hijo,8,American,male,1899-11-21,,Chuichupa
+20,Clark,Jennie M.,6,American,female,1899-11-21,,Chuichupa
+20,Clark,Eelia,4,American,female,1899-11-21,,Chuichupa
+20,Clark,Josephine,1,American,female,1899-11-21,,Chuichupa

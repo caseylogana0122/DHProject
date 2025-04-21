@@ -1,0 +1,561 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+1,Adams,Hettie M,26,E.U. of North,female,1891-03-01,single,Dublan
+1,Acord,Marta A.,14,E.U. of North,female,1885-03-20,,Dublan
+2,Allen,H. E.,69,E.U. of North,male,1897-10-08,widowed,Dublan
+3,Allen,Juan H.,29,E.U. of North,male,1897-10-08,married,Dublan
+3,Allen,Maria M.,9/12,Mexico,female,,,Dublan
+3,Allen,Rose,19,E.U. of North,female,1897-10-08,married,Dublan
+4,Anderson,Sofia,46,Switzerland,female,1889-06-23,single,Dublan
+5,Bloomfield,Jose,27,E.U. of North,male,1896-03-20,married,Dublan
+5,Bloomfield,Olive,23,E.U. of North,female,1896-03-20,married,Dublan
+6,Bluth,A. C. F.,56,Switzerland,male,1889-06-23,married,Dublan
+6,Bluth,Hannah,50,Switzerland,female,1889-06-23,married,Dublan
+6,Bluth,Fredrico,17,Switzerland,male,1889-06-23,,Dublan
+6,Bluth,Hilda,15,E.U. of North,female,1889-06-23,,Dublan
+6,Bluth,Oscar,13,E.U. of North,male,1889-06-23,,Dublan
+6,Bluth,Emil,9,E.U. of North,male,1889-06-23,,Dublan
+6,Bluth,Elena,8,Mexico,female,,,Dublan
+6,Bluth,Oliver,3,Mexico,male,,,Dublan
+7,Boice,Benjaminio,59,E.U. of North,male,1889,married,Dublan
+7,Boice,Maria L.,26,E.U. of North,female,1889,married,Dublan
+7,Boice,Jorge D.,3,E.U. of North,male,1889,,Dublan
+7,Boice,Lettie M.,2,Mexico,female,,,Dublan
+8,Burnham,Ema,31,E.U. of North,female,,widowed,Dublan
+8,Burnham,Abbie,11,E.U. of North,female,,,Dublan
+8,Burnham,Victor,9,E.U. of North,male,,,Dublan
+8,Burnham,Alma,7,Mexico,male,,,Dublan
+9,Camphouse,Aaron,38,Netherlands,male,1897-12-09,married,Dublan
+9,Camphouse,Matilda,43,Switzerland,female,1897-12-09,married,Dublan
+9,Camphouse,Harry D.,13,Netherlands,male,1897-12-09,,Dublan
+9,Camphouse,Jnen,11,Netherlands,male,1897-12-09,,Dublan
+9,Camphouse,samuel,9,Netherlands,male,1897-12-09,,Dublan
+9,Camphouse,Flord,7,E.U. of North,female,1897-12-09,,Dublan
+10,Call,Anson B.,35,E.U. of North,male,1891-01-05,married,Dublan
+10,Call,Maria T.,30,E.U. of North,female,1891-01-05,married,Dublan
+10,Call,Ethel V.,12,E.U. of North,female,1891-01-05,,Dublan
+10,Call,Athelia V.,10,E.U. of North,female,1891-01-05,,Dublan
+10,Call,Ivis P.,8,E.U. of North,female,1891-01-05,,Dublan
+10,Call,Cleo A.,6,Mexico,female,,,Dublan
+10,Call,Clella,6,Mexico,female,,,Dublan
+10,Call,Michael T.,8/12,Mexico,female,,,Dublan
+11,Cardon,Jose S.,40,E.U. of North,male,1886-01-15,married,Dublan
+11,Cardon,Salma Ann,43,E.U. of North,female,1886-01-15,married,Dublan
+11,Cardon,Jose Elmer,20,E.U. of North,male,1886-01-15,single,Dublan
+11,Cardon,Leory P.,16,E.U. of North,male,1886-01-15,,Dublan
+11,Cardon,Edith,14,E.U. of North,female,1886-01-15,,Dublan
+11,Cardon,Eva,8,Mexico,female,,,Dublan
+11,Cardon,Junius,7,Mexico,male,,,Dublan
+11,Cardon,Ethel V.,6,Mexico,female,,,Dublan
+11,Cardon,Nelia,5,Mexico,female,,,Dublan
+11,Cardon,Lester,4,Mexico,female,,,Dublan
+11,Cardon,Mausel,3,Mexico,male,,,Dublan
+11,Cardon,Mabel,3,Mexico,female,,,Dublan
+11,Cardon,Guillenmo,9/12,Mexico,male,,,Dublan
+12,Cardon,Manuel P.,38,E.U. of North,male,1895-12-15,married,Dublan
+12,Cardon,Emilia,38,E.U. of North,female,1895-12-15,married,Dublan
+12,Cardon,Clarence,17,E.U. of North,male,1895-12-15,,Dublan
+12,Cardon,Luis,10,E.U. of North,male,1895-12-15,,Dublan
+12,Cardon,Jessie,6,E.U. of North,male,1895-12-15,,Dublan
+12,Cardon,Nellie,3/12,Mexico,female,,,Dublan
+13,Cardon,E. Alonzo,21,E.U. of North,male,1895-12-15,married,Dublan
+13,Cardon,Rosa T.,19,E.U. of North,female,1895-12-15,married,Dublan
+14,Cardon,Luis P. hijo,30,E.U. of North,male,1897-07-20,married,Dublan
+14,Cardon,Ella,24,E.U. of North,female,1897-07-20,married,Dublan
+14,Cardon,Katie,2,E.U. of North,female,1897-07-20,,Dublan
+14,Cardon,Lusele,1,Mexico,female,,,Dublan
+14,Cardon,Gretta,6/12,Mexico,female,,,Dublan
+15,Carling,Pheobe M.,29,E.U. of North,female,1890-09,single,Dublan
+16,Carling,Sara,42,E.U. of North,female,1890-09,single,Dublan
+17,Carroll,Willard,51,E.U. of North,male,1890-09,married,Dublan
+17,Carroll,Carlota,40,E.U. of North,female,1890-09,married,Dublan
+17,Carroll,Carlos M.,19,E.U. of North,male,1890-09,,Dublan
+17,Carroll,Sara E.,16,E.U. of North,female,1890-09,,Dublan
+17,Carroll,Guillermo,11,E.U. of North,male,1890-09,,Dublan
+17,Carroll,Maria E.,10,E.U. of North,female,1890-09,,Dublan
+17,Carroll,Luisa,9,E.U. of North,female,1890-09,,Dublan
+17,Carroll,Edith,8,Mexico,female,,,Dublan
+17,Carroll,Helen,6,Mexico,male,,,Dublan
+17,Carroll,Jorge D.,5,Mexico,male,,,Dublan
+17,Carroll,Federico,4,Mexico,male,,,Dublan
+17,Carroll,Kazia,2,Mexico,female,,,Dublan
+17,Carroll,Willard,4/12,Mexico,male,,,Dublan
+18,Clauson,J. I.,41,E.U. of North,male,1897-07-20,married,Dublan
+18,Clauson,Maria C.,37,E.U. of North,female,1897-07-20,married,Dublan
+18,Clauson,Juan Leroy,9,E.U. of North,male,1897-07-20,,Dublan
+19,Clement,Nernoy A.,25,,female,1890-08-26,single,Dublan
+20,Cox,Theodore,34,E.U. of North,male,1891-01,married,Dublan
+20,Cox,Almeda,26,E.U. of North,female,1891-01,married,Dublan
+20,Cox,Almeda hija,7,Mexico,female,,,Dublan
+20,Cox,Arturo,5,Mexico,male,,,Dublan
+20,Cox,D. M.,3,Mexico,male,,,Dublan
+20,Cox,Phehina,6/12,Mexico,female,,,Dublan
+21,Cox,Belinda,43,England,female,1889-03-04,widowed,Dublan
+21,Cox,Maylin,25,E.U. of North,male,1891-01-19,single,Dublan
+21,Cox,Philemon,23,E.U. of North,male,1891-01-19,single,Dublan
+21,Cox,Victor,15,E.U. of North,male,1891-01-19,,Dublan
+21,Cox,Sara E.,13,E.U. of North,female,1891-01-19,,Dublan
+21,Cox,Rulon,9,E.U. of North,male,1891-01-19,,Dublan
+21,Cox,Chrilinta,2,Mexico,female,,,Dublan
+21,Cox,Lucinda,11/12,Mexico,female,,,Dublan
+22,Curtis,Ruth,27,E.U. of North,female,1891-10-25,single,Dublan
+23,Elton,L. F.,61,E.U. of North,male,1897-10-08,married,Dublan
+23,Elton,Maria F.,46,E.U. of North,female,1897-10-08,married,Dublan
+23,Elton,Jose V.,8,E.U. of North,male,1897-10-08,,Dublan
+24,Farr,Winslow,65,E.U. of North,male,1890-08,married,Dublan
+24,Farr,Melonia, ,E.U. of North,female,1890-08,married,Dublan
+24,Farr,Jose,20,E.U. of North,male,1890-08,,Dublan
+24,Farr,Lucia,18,E.U. of North,female,1890-08,,Dublan
+24,Farr,Edith,16,E.U. of North,female,1890-08,,Dublan
+24,Farr,Ernesto,16,E.U. of North,male,1890-08,,Dublan
+24,Farr,Belinda,13,E.U. of North,female,1890-08,,Dublan
+24,Farr,Maria V.,8,Mexico,female,,,Dublan
+24,Farr,Cloe M.,6,Mexico,female,,,Dublan
+24,Farr,Wildord W.,4,Mexico,male,,,Dublan
+24,Farr,Reil L.,2,Mexico,male,,,Dublan
+25,Foster,Carlos A.,71,England,male,1886-07-23,married,Dublan
+25,Foster,Josephine,43,E.U. of North,female,1886-07-23,married,Dublan
+25,Foster,Daniel,20,E.U. of North,male,1886-07-23,,Dublan
+25,Foster,Maria E.,18,E.U. of North,female,1886-07-23,,Dublan
+25,Foster,Samuel,16,E.U. of North,male,1886-07-23,,Dublan
+25,Foster,Lydia,14,E.U. of North,female,1886-07-23,,Dublan
+25,Foster,Alberto,11,Mexico,male,,,Dublan
+25,Foster,Guillermo,10,Mexico,male,,,Dublan
+25,Foster,Moroni,5,Mexico,male,,,Dublan
+26,Freeman,Naney A.,35,E.U. of North,female,1885-03-25,married,Dublan
+27,Gardner,Aggie,33,E.U. of North,female,1895-05-01,single,Dublan
+28,Gibson,Ema,44,England,female,1891-03,single,Dublan
+28,Hausen,Luis,15,Denmark,male,1895,,Dublan
+29,Hall,Henrietta,46,E.U. of North,female,1898-05-22,widowed,Dublan
+30,Hawkins,Alfred,28,E.U. of North,male,,married,Dublan
+30,Hawkins,Julia,20,E.U. of North,female,1891-03-30,married,Dublan
+30,Hawkins,Leroy,1,Mexico,male,,,Dublan
+30,Hawkins,Ysabel N.,31,E.U. of North,female,1889-03-20,,Dublan
+31,Herron,Jorge,38,Scotland,male,1898-05-23,married,Dublan
+31,Herron,Maria P.,37,Scotland,female,1898-10-26,married,Dublan
+31,Herron,Katie,12,Scotland,female,1898-10-26,,Dublan
+32,Hunter,J. E.,38,E.U. of North,male,1895-09-16,married,Dublan
+32,Hunter,M. A.,41,E.U. of North,female,1895-09-16,married,Dublan
+32,Hunter,Maud,14,E.U. of North,female,1895-09-16,,Dublan
+32,Hunter,Lowa,12,E.U. of North,female,1895-09-16,,Dublan
+32,Hunter,Ray,10,E.U. of North,male,1895-09-16,,Dublan
+32,Hunter,Rena,6,E.U. of North,female,1895-09-16,,Dublan
+32,Hunter,Roy,8,E.U. of North,male,1895-09-16,,Dublan
+32,Hunter,Berta,4,E.U. of North,female,1895-09-16,,Dublan
+32,Hunter,Avis,1,Mexico,female,,,Dublan
+33,Harbert,Guillermo,67,England,male,1891-04-27,married,Dublan
+33,Harbert,Ana,66,England,female,1891-04-27,married,Dublan
+34,Hurst,Felipe,62,England,male,1890-11,married,Dublan
+34,Hurst,Ysabel,47,E.U. of North,female,1890-11,married,Dublan
+34,Hurst,Oscar,19,E.U. of North,male,1891-03,,Dublan
+35,Hurst,Jorge A.,27,E.U. of North,male,1891-01-05,married,Dublan
+35,Hurst,Maria M.,23,E.U. of North,female,1891-03,married,Dublan
+35,Hurst,Ivez,5,Mexico,female,,,Dublan
+35,Hurst,Jorge A.,3,Mexico,male,,,Dublan
+35,Hurst,Luella M.,1,Mexico,female,,,Dublan
+36,Hurst,Felipe H.,38,E.U. of North,male,1890-01-01,married,Dublan
+36,Hurst,Ella,37,E.U. of North,female,1890-01-01,married,Dublan
+36,Hurst,Lucinda,17,E.U. of North,female,1890-01-01,,Dublan
+36,Hurst,Haris,15,E.U. of North,male,1890-01-01,,Dublan
+36,Hurst,Lois E.,13,E.U. of North,female,1890-01-01,,Dublan
+36,Hurst,Isa L.,10,E.U. of North,male,1890-01-01,,Dublan
+36,Hurst,Gary H.,8,E.U. of North,male,1890-01-01,,Dublan
+36,Hurst,Perry W.,6,Mexico,male,,,Dublan
+36,Hurst,Roy A.,5,Mexico,male,,,Dublan
+36,Hurst,Moyan W.,3,Mexico,male,,,Dublan
+36,Hurst,Daniel W.,2,Mexico,male,,,Dublan
+36,Hurst,Justin E.,1,Mexico,male,,,Dublan
+36,Hurst,Lew W.,9/12,Mexico,male,,,Dublan
+37,Hurst,Walter F.,31,E.U. of North,male,1891-04-11,married,Dublan
+37,Hurst,Hannah A. ,29,E.U. of North,female,1891-04-11,married,Dublan
+37,Hurst,Eunice A.,10,E.U. of North,female,1891-04-11,,Dublan
+37,Hurst,Hannah L.,6,Mexico,female,,,Dublan
+37,Hurst,Lolhian,4,Mexico,female,,,Dublan
+38,Hurst,Otis,,E.U. of North,male,1891-01-01,married,Dublan
+38,Hurst,Geogana,24,E.U. of North,female,1891-01-01,married,Dublan
+38,Hurst,Della,2,Mexico,female,,,Dublan
+38,Hurst,Alberto,18,E.U. of North,male,1891-03,,Dublan
+38,Hurst,Ema,16,E.U. of North,female,1891-03,,Dublan
+38,Hurst,Sara,15,E.U. of North,female,1891-03,,Dublan
+38,Hurst,Ray,14,E.U. of North,male,1891-03,,Dublan
+38,Hurst,Hugh,13,E.U. of North,male,1891-03,,Dublan
+38,Hurst,Guy,11,E.U. of North,male,1891-03,,Dublan
+38,Hurst,Edgar,10,E.U. of North,male,1891-03,,Dublan
+38,Hurst,Ralph,7,Mexico,male,,,Dublan
+38,Hurst,Ruth,8,Mexico,female,,,Dublan
+38,Hurst,Frank,5,Mexico,male,,,Dublan
+38,Hurst,Ada,2,Mexico,female,,,Dublan
+38,Hall,Santiago L.,14,E.U. of North,male,1898-05-22,,Dublan
+38,Hall,Henrietta A.,11,E.U. of North,female,1898-05-22,,Dublan
+39,Jacobson,Erastus S.,31,E.U. of North,male,1891-05-24,married,Dublan
+39,Jacobson,Annie M.,18,E.U. of North,female,1891-05-24,married,Dublan
+40,Johnson,Jose H.,29,E.U. of North,male,1891-11-4,married,Dublan
+40,Johnson,Malinda,24,E.U. of North,female,1891-11-4,married,Dublan
+40,Johnson,Jose H. hijo,7,E.U. of North,male,1891-11-4,,Dublan
+40,Johnson,Flora M.,4,Mexico,female,,,Dublan
+40,Johnson,Ysabel,2,Mexico,female,,,Dublan
+41,Jorgenson,Jorgon,48,Denmark,male,1896-10-02,married,Dublan
+41,Jorgenson,Annie,35,Denmark,female,1896-10-02,married,Dublan
+41,Jorgenson,Hyrum,18,E.U. of North,male,1896-10-02,,Dublan
+42,Gale,Santiago F.,27,E.U. of North,male,1887,married,Dublan
+42,Gale,Sara E.,20,E.U. of North,female,1885,married,Dublan
+42,Gale,Santiago A.,9/12,Mexico,male,,,Dublan
+43,Jones,Timoteo,49,E.U. of North,male,1896-12-20,married,Dublan
+43,Jones,Maria J.,39,E.U. of North,female,1896-12-20,married,Dublan
+43,Jones,Juan B.,20,E.U. of North,male,1896-12-20,,Dublan
+43,Jones,Vernon T.,18,E.U. of North,male,1896-12-20,,Dublan
+43,Jones,Willard E.,16,E.U. of North,male,1896-12-20,,Dublan
+43,Jones,Alberto,11,E.U. of North,male,1896-12-20,,Dublan
+43,Jones,Loran F.,9,E.U. of North,male,1896-12-20,,Dublan
+43,Jones,Sara E.,7,E.U. of North,female,1896-12-20,,Dublan
+43,Jones,Maria J.,4,E.U. of North,female,1896-12-20,,Dublan
+43,Jones,Ezra,7/12,Mexico,male,,,Dublan
+44,Jones,F. W. hijo,25,E.U. of North,male,1891-01-01,married,Dublan
+44,Jones,Maylin,2,Mexico,female,,,Dublan
+45,Lake,Sara,54,E.U. of North,female,1887-09,widowed,Dublan
+45,Lake,Jose,24,E.U. of North,male,1887-09,single,Dublan
+45,Lake,Frank,16,E.U. of North,male,1887-09,,Dublan
+45,Lake,Alonzo,15,E.U. of North,male,1887-09,,Dublan
+46,Lake,Maria,47,E.U. of North,female,1887-09,widowed,Dublan
+46,Lake,Samuel,22,E.U. of North,male,1887-09,single,Dublan
+46,Lake,Bailey,19,E.U. of North,male,1887-09,,Dublan
+46,Lake,Maria E.,16,E.U. of North,female,1887-09,,Dublan
+46,Lake,Willard,10,Mexico,male,,,Dublan
+46,Lake,Ida,7,Mexico,female,,,Dublan
+46,Lake,Ammon,3,Mexico,male,,,Dublan
+46,Lake,Santiago,35,E.U. of North,male,1897-03-16,widowed,Dublan
+46,Lake,Byron,7,E.U. of North,male,1897-03-16,,Dublan
+46,Lake,Barney,5,E.U. of North,male,1897-03-16,,Dublan
+46,Lake,Boid,3,E.U. of North,male,1897-03-16,,Dublan
+47,Lemen,N. Van.,50,E.U. of North,male,1897-12-10,married,Dublan
+47,Lemen,M. E.,46,E.U. of North,female,1897-12-10,married,Dublan
+47,Lemen,E. S.,17,E.U. of North,male,1897-12-10,,Dublan
+47,Lemen,M. D.,16,E.U. of North,female,1897-12-10,,Dublan
+47,Lemen,Cornelio,13,E.U. of North,male,1897-12-10,,Dublan
+47,Lemen,Cloe G.,9,E.U. of North,female,1897-12-10,,Dublan
+47,Lemen,Caraett,6,E.U. of North,female,1897-12-10,,Dublan
+47,Lemen,Jera D.,3,E.U. of North,male,1897-12-10,,Dublan
+48,Larson,Mels,26,E.U. of North,male,1891-06,married,Dublan
+48,Larson,L. Maud,21,E.U. of North,female,1891-06,married,Dublan
+48,Larson,Jose E.,1,Mexico,male,,,Dublan
+49,Larson,Karen M.,51,Denmark,male,1891-03-24,widowed,Dublan
+50,Nielson,Carl E.,38,Denmark,male,1892-06,married,Dublan
+50,Nielson,Siva,31,Denmark,female,1892-06,married,Dublan
+50,Nielson,Edith,13,E.U. of North,female,1892-06,,Dublan
+50,Nielson,Sine,11,E.U. of North,female,1892-06,,Dublan
+50,Nielson,Carl E. hijo,9,E.U. of North,male,1892-06,,Dublan
+50,Nielson,Ernesto,7,E.U. of North,male,1892-06,,Dublan
+50,Nielson,Venice,4,Mexico,female,,,Dublan
+50,Nielson,Morgan,3,Mexico,male,,,Dublan
+50,Nielson,Grant,2,Mexico,male,,,Dublan
+50,Nielson,Cannte,3/12,Mexico,male,,,Dublan
+51,Nelson,Claybourn,20,E.U. of North,male,,married,Dublan
+51,Nelson,Ida N.,20,E.U. of North,female,,married,Dublan
+52,Maxwell,Lottie,36,E.U. of North,female,,single,Dublan
+53,McClellan,Rhoda N.,28,E.U. of North,female,1887-01,single,Dublan
+54,Minnerly,Alberto,63,E.U. of North,male,1898-05-22,married,Dublan
+54,Minnerly,Maria Juana,55,E.U. of North,female,1898-05-22,married,Dublan
+55,Mortensen,Santiago,46,Denmark,male,1889-03-20,married,Dublan
+55,Mortensen,Ida J.,33,E.U. of North,female,1889-03-20,married,Dublan
+55,Mortensen,Alberto,21,E.U. of North,male,1889-03-20,single,Dublan
+55,Mortensen,Rebeca J.,19,E.U. of North,female,1889-03-20,single,Dublan
+55,Mortensen,Elena M.,17,E.U. of North,female,1889-03-20,,Dublan
+55,Mortensen,Ida M. ,14,E.U. of North,female,1889-03-20,,Dublan
+55,Mortensen,Santiago A.,12,E.U. of North,male,1889-03-20,,Dublan
+55,Mortensen,Clarence A. ,11,E.U. of North,male,1889-03-20,,Dublan
+55,Mortensen,Jose A. ,8,Mexico,male,,,Dublan
+55,Mortensen,Augsta P.,5,Mexico,female,,,Dublan
+55,Mortensen,Jessie W.,8,Mexico,male,,,Dublan
+55,Mortensen,Kenneth A.,2,Mexico,male,,,Dublan
+56,Mortensen,E. W.,39,Denmark,male,1889-03-16,married,Dublan
+56,Mortensen,Sara E.,27,E.U. of North,female,1889-03-16,married,Dublan
+56,Mortensen,Martin,9,Mexico,male,,,Dublan
+56,Mortensen,Mattie,6,Mexico,female,,,Dublan
+56,Mortensen,Lorenzo E.,3,Mexico,male,,,Dublan
+56,Mortensen,Guillermo E.,8/12,Mexico,male,,,Dublan
+57,Moffett,Jose A. ,42,E.U. of North,male,1885-04,married,Dublan
+57,Moffett,Mariah,36,E.U. of North,female,1885-04,married,Dublan
+57,Moffett,Benjaminio A.,17,E.U. of North,male,1885-04,,Dublan
+57,Moffett,Laura,13,Mexico,female,,,Dublan
+57,Moffett,Loran,7,Mexico,male,,,Dublan
+57,Moffett,Jenna,5,Mexico,female,,,Dublan
+57,Moffett,Jedediah,2,Mexico,male,,,Dublan
+58,Mortenson,Niels,76,Denmark,male,1889-03-16,,Dublan
+58,Mortenson,Mettie,76,Denmark,female,1892,married,Dublan
+59,Mortenson,Minnie Sehuno,52,Denmark,female,1891-01-15,widowed,Dublan
+60,Pattern,Lillian S.,43,E.U. of North,female,1891-01-15,married,Dublan
+60,Pattern,Jose,26,E.U. of North,male,1891-01-15,single,Dublan
+60,Pattern,Juan,19,E.U. of North,male,1891-01-15,,Dublan
+60,Pattern,Leroy,16,E.U. of North,male,1891-01-15,,Dublan
+60,Pattern,Jehna A.,13,E.U. of North,female,1891-01-15,,Dublan
+60,Pattern,Delas,12,E.U. of North,male,1891-01-15,,Dublan
+60,Pattern,Ella,9,E.U. of North,female,1891-01-15,,Dublan
+60,Pattern,Luchonias,7,Mexico,male,,,Dublan
+60,Pattern,Maria,5,Mexico,female,,,Dublan
+60,Pattern,Georgetta,2,Mexico,female,,,Dublan
+61,Pattern,Carlos,23,E.U. of North,male,1890-05-15,married,Dublan
+61,Pattern,Ida,21,E.U. of North,female,1890-05-15,married,Dublan
+61,Pattern,Melvin,3,Mexico,male,,,Dublan
+61,Pattern,Ida Fay,1,Mexico,female,,,Dublan
+62,Payne,Enrique M.,40,England,male,1891-10-25,married,Dublan
+62,Payne,Helina A. ,37,E.U. of North,female,1891-10-25,married,Dublan
+62,Payne,Enrique L.,19,E.U. of North,male,1891-10-25,,Dublan
+62,Payne,Elnora,17,E.U. of North,female,1891-10-25,,Dublan
+62,Payne,Myrtle,14,E.U. of North,female,1891-10-25,,Dublan
+62,Payne,Edna,11,E.U. of North,female,1891-10-25,,Dublan
+62,Payne,Junius E.,11,E.U. of North,male,1891-10-25,,Dublan
+62,Payne,Archabald,8,E.U. of North,male,1891-10-25,,Dublan
+62,Payne,Lucinda,6,Mexico,female,,,Dublan
+62,Payne,Jorge J.,6,Mexico,male,,,Dublan
+62,Payne,Ezra C.,4,Mexico,male,,,Dublan
+62,Payne,Leshe B.,3,Mexico,male,,,Dublan
+62,Payne,Ema B.,2,Mexico,female,,,Dublan
+62,Payne,Cortez W.,7/12,Mexico,male,,,Dublan
+62,Payne,Bessie,1/12,Mexico,female,,,Dublan
+63,Peterson,Andrew,28,E.U. of North,male,1897-11-15,married,Dublan
+63,Peterson,Viola,26,E.U. of North,female,1897-11-15,married,Dublan
+63,Peterson,Lois A.,6,E.U. of North,female,1897-11-15,,Dublan
+64,Pratt,Heleman,53,E.U. of North,male,1887-01-20,married,Dublan
+64,Pratt,Victoria,46,E.U. of North,female,1887-01-20,married,Dublan
+64,Pratt,Ray L.,20,E.U. of North,male,1887-01-20,,Dublan
+64,Pratt,Leah,18,E.U. of North,female,1887-01-20,,Dublan
+64,Pratt,Carl,17,E.U. of North,male,1887-01-20,,Dublan
+64,Pratt,Isa W.,16,E.U. of North,male,1887-01-20,,Dublan
+64,Pratt,Maria Irena,16,E.U. of North,female,1887-01-20,,Dublan
+64,Pratt,E. Leon,12,E.U. of North,male,1887-01-20,,Dublan
+64,Pratt,Cerde,11,Mexico,female,,,Dublan
+64,Pratt,Amy W.,8,Mexico,female,,,Dublan
+64,Pratt,Gladdys,3,Mexico,female,,,Dublan
+65,Porter,Arvel,23,E.U. of North,male,1889-12-20,married,Dublan
+65,Porter,Ysabel,21,E.U. of North,female,1890,married,Dublan
+65,Porter,Arvel,2,Mexico,male,,,Dublan
+66,Porter,Edson D.,39,E.U. of North,male,1890-09,married,Dublan
+66,Porter,Catalina A.,33,E.U. of North,female,1890-09,married,Dublan
+66,Porter,Arvena,17,E.U. of North,female,1890-09,,Dublan
+66,Porter,Delila,14,E.U. of North,female,1890-09,,Dublan
+66,Porter,Geneva,12,E.U. of North,female,1890-09,,Dublan
+66,Porter,Zenos,11,E.U. of North,male,1890-09,,Dublan
+66,Porter,Clara,10,E.U. of North,female,1890-09,,Dublan
+66,Porter,Jessie W.,10,E.U. of North,male,1890-09,,Dublan
+66,Porter,Leona,8,E.U. of North,female,1890-09,,Dublan
+66,Porter,Asenath,7,Mexico,female,,,Dublan
+66,Porter,Francisco,5,Mexico,male,,,Dublan
+66,Porter,Edson I.,6,Mexico,male,,,Dublan
+66,Porter,Homer,1,Mexico,male,,,Dublan
+66,Porter,Winnie,3/12,Mexico,female,,,Dublan
+67,Perdue,J. C.,60,E.U. of North,male,1897-10-08,married,Dublan
+67,Perdue,Marta,30,E.U. of North,female,1897-10-08,married,Dublan
+68,Pratt,Dora,20,E.U. of North,female,1887-01-20,single,Dublan
+69,Pryde,Juan,67,Scotland,male,1898-05-23,married,Dublan
+69,Pryde,Jenett,63,Scotland,female,1898-05-23,married,Dublan
+69,Pryde,Juana,23,Scotland,male,1898-05-23,single,Dublan
+69,Pryde,Santiago,28,Scotland,male,1898-05-23,widowed,Dublan
+69,Pryde,Agnes,4,Mexico,female,,,Dublan
+70,Ray,Maria A.,28,E.U. of North,female,1889-05-31,widowed,Dublan
+70,Ray,Milton,8,Mexico,male,,,Dublan
+70,Ray,Maria A. D.,6,Mexico,female,,,Dublan
+71,Raynolds,Ysabel A.,44,England,female,1895-01-25,widowed,Dublan
+71,Raynolds,Carlos F.,20,E.U. of North,male,1895-01-25,,Dublan
+72,Romney,Gaskell,27,E.U. of North,male,1885-01-20,married,Dublan
+72,Romney,Ana P.,22,E.U. of North,female,1887-01-25,married,Dublan
+72,Romney,Mauricio G.,1,Mexico,male,,,Dublan
+72,Rowley,Miriam,11,E.U. of North,female,1891,,Dublan
+72,Romney,Rosell E.,5,Mexico,male,,,Dublan
+73,Robinson,Samuel J.,34,E.U. of North,male,1894-02-05,married,Dublan
+73,Robinson,Minnie,29,E.U. of North,female,1894-02-05,married,Dublan
+73,Robinson,Lucille,11,E.U. of North,female,1894-02-05,,Dublan
+73,Robinson,Jennie,8,E.U. of North,female,1894-02-05,,Dublan
+73,Robinson,Leland,7,E.U. of North,male,1894-02-05,,Dublan
+73,Robinson,J. B.,4,E.U. of North,male,1894-02-05,,Dublan
+73,Robinson,Eronin,2,Mexico,male,,,Dublan
+73,Robinson,Elmo,2/12,Mexico,male,,,Dublan
+74,Sanderson,Rebeca A.,40,E.U. of North,female,1891-05,single,Dublan
+75,Smith,Jessie N. hijo,37,E.U. of North,male,1885-05-25,married,Dublan
+75,Smith,Maria A.,36,E.U. of North,female,1885-05-25,married,Dublan
+75,Smith,Jessie,16,E.U. of North,male,1885-05-25,,Dublan
+75,Smith,Elias,14,E.U. of North,male,1885-05-25,,Dublan
+75,Smith,Juan W.,10,Mexico,male,,,Dublan
+75,Smith,Guillermo C.,9,Mexico,male,,,Dublan
+75,Smith,Francisco C.,8,Mexico,male,,,Dublan
+75,Smith,Ema B.,7,Mexico,female,,,Dublan
+75,Smith,Enrique L.,6,Mexico,male,,,Dublan
+75,Smith,Edith,4,Mexico,female,,,Dublan
+75,Smith,Moroni W.,3,Mexico,male,,,Dublan
+75,Smith,Alvin N.,3,Mexico,male,,,Dublan
+75,Smith,Silas A.,5/12,Mexico,male,,,Dublan
+75,Smith,Hyrum H.,3/12,Mexico,male,,,Dublan
+76,Sanders,Guillermo,26,E.U. of North,male,1897-07-20,married,Dublan
+76,Sanders,Ysabel,22,E.U. of North,female,1897-07-20,married,Dublan
+76,Sanders,Viola,2,E.U. of North,female,1897-07-20,,Dublan
+77,Snow,Julia,48,E.U. of North,female,1889-05-31,single,Dublan
+78,Stailey,Marta J.,61,E.U. of North,female,1890,widowed,Dublan
+79,Stailey,Merritt E.,29,E.U. of North,male,1890,married,Dublan
+79,Stailey,Eliza J.,23,E.U. of North,female,1891,married,Dublan
+79,Stailey,Merritt E. hijo,5,Mexico,male,,,Dublan
+79,Stailey,Trusa,4,Mexico,female,,,Dublan
+79,Stailey,Lorisa,2,Mexico,female,,,Dublan
+79,Stailey,Cluster,12,Mexico,male,,,Dublan
+79,Stailey,Guillermo,11,Mexico,male,,,Dublan
+79,Stailey,Minnie,9,Mexico,female,,,Dublan
+79,Stailey,Dashan,7,Mexico,female,,,Dublan
+79,Stailey,Maryette,4,Mexico,female,,,Dublan
+80,Sneddon,Aminto,23,Scotland,female,1898-10-24,widowed,Dublan
+81,Tenney,Ammon M.,54,E.U. of North,male,1891-03-01,married,Dublan
+81,Tenney,Eliza A.,44,E.U. of North,female,1891-03-01,married,Dublan
+81,Tenney,Pheobe R.,22,E.U. of North,female,1891-03-01,single,Dublan
+81,Tenney,David,8,E.U. of North,male,1891-03-01,,Dublan
+81,Tenney,Millicent,8,Mexico,female,,,Dublan
+81,Tenney,Engenio A.,6,Mexico,male,,,Dublan
+81,Tenney,Heleman P.,4,Mexico,male,,,Dublan
+81,Tenney,Pablo F.,2,Mexico,male,,,Dublan
+82,Tkurber,Alberto D.,44,E.U. of North,male,1895-05-01,married,Dublan
+82,Tkurber,Ella,33,E.U. of North,female,1895-05-01,married,Dublan
+82,Tkurber,Perla,20,E.U. of North,female,1895-05-01,,Dublan
+82,Tkurber,Elenor,19,E.U. of North,female,1895-05-01,,Dublan
+82,Tkurber,Ezrel,16,E.U. of North,male,1895-05-01,,Dublan
+82,Tkurber,Montiz,15,E.U. of North,female,1895-05-01,,Dublan
+82,Tkurber,Genevive,10,E.U. of North,female,1895-05-01,,Dublan
+82,Tkurber,Zerita,1,Mexico,female,,,Dublan
+83,Harris,Martin L.,,E.U. of North,male,1898-10-05,married,Dublan
+84,Tucker,Traverse,29,E.U. of North,male,1897-11-15,married,Dublan
+84,Tucker,Wilmeth,26,Denmark,female,1897-11-15,married,Dublan
+84,Tucker,Jorge Traverse,7,E.U. of North,male,1897-11-15,,Dublan
+84,Tucker,Carlos L.,5,E.U. of North,male,1897-11-15,,Dublan
+84,Tucker,W. P.,3,E.U. of North,male,1897-11-15,,Dublan
+84,Tucker,Lucile,2,E.U. of North,female,1897-11-15,,Dublan
+85,Osman,Oreana,17,E.U. of North,female,1897-12-09,,Dublan
+85,Osman,Flosse,13,E.U. of North,female,1897-12-09,,Dublan
+85,Osman,Lorenzo,11,E.U. of North,male,1897-12-09,,Dublan
+86,Walsen,Annie,28,E.U. of North,female,1891-10,single,Dublan
+87,DeWitt,Juan D.,21,E.U. of North,male,1898-08-08,married,Dublan
+87,DeWitt,Carolina A.,20,E.U. of North,female,1898-08-08,married,Dublan
+87,DeWitt,Lillian S.,2,E.U. of North,female,1898-08-08,,Dublan
+87,DeWitt,Juan D. hijo,2/12,E.U. of North,male,1898-08-08,,Dublan
+88,Wahlin,Pedro,41,Switzerland,male,1891-03-24,married,Dublan
+88,Wahlin,Berta,32,E.U. of North,female,1891-03-24,married,Dublan
+88,Wahlin,Ivy M.,11,E.U. of North,female,1891-03-24,,Dublan
+88,Wahlin,Pedro,3/12,Mexico,male,,,Dublan
+89,Webb,Eduardo M.,51,E.U. of North,male,1898-08-08,married,Dublan
+89,Webb,Elena A.,44,England,female,1898-08-08,married,Dublan
+89,Webb,Omen A.,20,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Francisco,19,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Enriqueta A.,17,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Clark I.,17,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Daras A.,15,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Santiago L.,14,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Juan Enrique,12,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Irene A.,10,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Ruth E.,9,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Cordelia,8,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Edson B.,8,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Ysabel,7,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Launa M.,7,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Nelson H.,6,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,May,5,E.U. of North,female,1898-08-08,,Dublan
+89,Webb,Wayne,3,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Sidney,3,E.U. of North,male,1898-08-08,,Dublan
+89,Webb,Lois,1/12,E.U. of North,female,1898-08-08,,Dublan
+90,Wilson,I. L.,45,E.U. of North,male,1885,married,Dublan
+90,Wilson,Lavina,38,E.U. of North,female,1885,married,Dublan
+90,Wilson,Maria E.,12,Mexico,female,,,Dublan
+90,Wilson,Cristobal R.,9,E.U. of North,male,,,Dublan
+91,Williams,Fredrico G.,45,E.U. of North,male,1890-08-26,married,Dublan
+91,Williams,Amanda,38,E.U. of North,female,1890-08-26,married,Dublan
+91,Williams,Sara J.,18,E.U. of North,female,1890-08-26,,Dublan
+91,Williams,Flora M.,12,E.U. of North,female,1890-08-26,,Dublan
+91,Williams,Jose,10,E.U. of North,male,1890-08-26,,Dublan
+91,Williams,Hazel,8,Mexico,female,,,Dublan
+91,Williams,Leonardo B.,5,Mexico,male,,,Dublan
+91,Williams,Orlande C.,4,Mexico,male,,,Dublan
+91,Williams,Vernal,3,Mexico,male,,,Dublan
+91,Williams,Henrietta,3/12,Mexico,female,,,Dublan
+92,Wilson,Maria M.,29,E.U. of North,female,1890-01-10,single,Dublan
+93,Wilcken,Dora,44,Germany,female,1887-01-20,single,Dublan
+94,Wilcken,Berta,35,E.U. of North,female,1887-01-20,single,Dublan
+95,Ward,Llewellan O.,31,E.U. of North,male,1895-09-16,married,Dublan
+95,Ward,Stella J.,19,E.U. of North,female,1895-09-16,married,Dublan
+95,Ward,Sena,2,Mexico,female,,,Dublan
+96,Ward,Ramos P.,45,E.U. of North,male,1895-09-16,married,Dublan
+96,Ward,Huldah A.,35,E.U. of North,female,1895-09-16,married,Dublan
+96,Ward,Hattie,12,E.U. of North,female,1895-09-16,,Dublan
+96,Ward,Cara,10,E.U. of North,female,1895-09-16,,Dublan
+96,Ward,Lena,4,E.U. of North,female,1895-09-16,,Dublan
+96,Ward,Edna,6/12,Mexico,female,,,Dublan
+96,Allen,Coney,9,E.U. of North,male,1897-09-28,,Dublan
+96,Allen,Vasha,7,E.U. of North,female,1897-09-28,,Dublan
+96,Allen,Minnie,5,E.U. of North,female,1897-09-28,,Dublan
+96,Allen,Leonardo,3,E.U. of North,male,1897-09-28,,Dublan
+96,Allen,Enrique,1,E.U. of North,male,1897-09-28,,Dublan
+97,Allen,Tomas R.,37,E.U. of North,male,1897-09-28,married,Dublan
+97,Allen,Sara P.,37,E.U. of North,female,1897-09-28,married,Dublan
+97,Allen,Orson,17,E.U. of North,male,1897-09-28,,Dublan
+97,Allen,Marta,13,E.U. of North,female,,,Dublan
+98,Whipple,Eli,78,E.U. of North,male,1887,married,Dublan
+98,Whipple,Maria,39,E.U. of North,female,1887,married,Dublan
+98,Whipple,Santiago,18,E.U. of North,male,1887,,Dublan
+98,Whipple,Rillie,15,E.U. of North,male,1887,,Dublan
+98,Whipple,Edson,9,Mexico,male,,,Dublan
+98,Whipple,Roy B.,6,Mexico,male,,,Dublan
+98,Whipple,Guillermo W.,2,Mexico,male,,,Dublan
+99,Young,Santiago A.,38,E.U. of North,male,1896-02-15,married,Dublan
+99,Young,Lillian A.,37,E.U. of North,female,1896-01-08,married,Dublan
+99,Young,Santiago H.,19,E.U. of North,male,1896-01-08,,Dublan
+99,Young,Helipe H.,17,E.U. of North,male,1896-01-08,,Dublan
+99,Young,Juan A. ,15,E.U. of North,male,1896-01-08,,Dublan
+99,Young,Guiellermo H.,13,E.U. of North,male,1896-01-08,,Dublan
+99,Young,Ernesto,8,E.U. of North,male,1896-01-08,,Dublan
+99,Young,Edna,1,Mexico,female,,,Dublan
+100,Young,Lydia Knight,54,E.U. of North,female,1891-01-08,married,Dublan
+100,Young,Newel K.,21,E.U. of North,male,1891-01-08,,Dublan
+100,Young,Howard S.,18,E.U. of North,male,1891-01-08,,Dublan
+100,Young,Edward W.,16,E.U. of North,male,1891-01-08,,Dublan
+101,Payne,E. W.,31,E.U. of North,male,1897-03-01,married,Dublan
+101,Payne,Emilia,29,E.U. of North,female,1897-03-01,married,Dublan
+102,Romney,Miles P.,54,E.U. of North,male,1885-04-12,married,Dublan
+102,Romney,Ana H.,55,E.U. of North,female,1885-04-12,married,Dublan
+102,Romney,Margarita,18,E.U. of North,female,1885-04-12,,Dublan
+102,Romney,Alicia,17,E.U. of North,female,1885-04-12,,Dublan
+102,Romney,Park,16,E.U. of North,male,1885-04-12,,Dublan
+102,Romney,Engenio,14,E.U. of North,male,1885-04-12,,Dublan
+102,Romney,Orin N.,14,E.U. of North,male,1885-04-12,,Dublan
+102,Romney,Ema B.,13,E.U. of North,female,1885-04-12,,Dublan
+102,Romney,Erastus S.,12,Mexico,male,,,Dublan
+102,Romney,Leon,11,Mexico,male,,,Dublan
+102,Romney,Ella,10,Mexico,female,,,Dublan
+102,Romney,Ethel,10,Mexico,female,,,Dublan
+102,Romney,Ivy M.,8,Mexico,female,,,Dublan
+102,Romney,Yola,7,Mexico,female,,,Dublan
+102,Romney,Erma,5,Mexico,male,,,Dublan
+102,Romney,Lula,4,Mexico,female,,,Dublan
+102,Romney,Vernon,2,Mexico,male,,,Dublan
+102,Romney,Francisco,1,Mexico,male,,,Dublan
+103,Snow,Emilia E.,28,E.U. of North,female,1893-05-14,widowed,Dublan
+103,Snow,Teresa,9,E.U. of North,female,1893-05-14,,Dublan
+103,Snow,Beatriz,6,E.U. of North,female,1893-05-14,,Dublan
+104,Fredrickson,Niels,,Danish,male,1900-12-18,married,Dublan
+104,Fredrickson,Ana C.,,Danish,female,1900-12-18,married,Dublan
+105,Dorne,Abraham,46,English,male,1899-12-15,married,Dublan
+105,Dorne,Isabel A.,42,English,female,1899-12-15,married,Dublan
+105,Dorne,Edith J.,20,American,female,1899-12-15,,Dublan
+105,Dorne,Jose F.,16,American,male,1899-12-15,,Dublan
+105,Dorne,Maria B.,14,American,female,1899-12-15,,Dublan
+105,Dorne,Eva S.,12,American,female,1899-12-15,,Dublan
+105,Dorne,Ethel C.,9,American,female,1899-12-15,,Dublan
+105,Dorne,R. P.,7,American,female,1899-12-15,,Dublan
+105,Dorne,H. J.,3,American,female,1899-12-15,,Dublan
+105,Dorne,A.W.,1,American,female,1899-12-15,,Dublan
+106,Cummings,W. H.,40,American,male,1902-11-20,married,Dublan
+106,Cummings,Della,31,American,female,1902-11-20,married,Dublan
+106,Cummings,Enrique,15,American,male,1902-11-20,,Dublan
+106,Cummings,Mattie,12,American,female,1902-11-20,,Dublan
+106,Cummings,Sallie,9,American,female,1902-11-20,,Dublan
+106,Cummings,Ida,6,American,female,1902-11-20,,Dublan
+107,MicKelson,Morris,37,Danish,male,1903-06-22,married,Dublan
+107,MicKelson,Minnie,35,Danish,female,1903-06-22,married,Dublan
+107,MicKelson,Nora,16,Danish,female,1903-06-22,,Dublan
+107,MicKelson,Elva,13,Danish,female,1903-06-22,,Dublan
+107,MicKelson,Enrique,11,American,male,1903-06-22,,Dublan
+107,MicKelson,Ana,9,American,female,1903-06-22,,Dublan
+107,MicKelson,Maria,7,American,female,1903-06-22,,Dublan
+107,Sovenseu,Matilda,25,Danish,female,1903-06-22,single,Dublan
+108,Provo,Juan W.,26,American,male,1902-08,married,Dublan
+108,Provo,Elenor T.,22,American,female,1902-08,married,Dublan

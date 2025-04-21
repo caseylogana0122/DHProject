@@ -1,0 +1,114 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+1,Allred,Byron H.,51,E.U. of North,male,1890-12-26,married,Garcia
+1,Allred,Pheobe J.,47,E.U. of North,female,1890-12-26,married,Garcia
+1,Allred,Oroal A.,20,E.U. of North,male,1891-06-01,single,Garcia
+1,Allred,Altie,17,E.U. of North,female,1891-06-01,single,Garcia
+1,Allred,Ednar,14,E.U. of North,male,1891-06-01,,Garcia
+1,Allred,Cara,12,E.U. of North,male,1890-12-26,,Garcia
+1,Allred,Eva,11,E.U. of North,female,1891-06-01,,Garcia
+1,Allred,Orissa,9,E.U. of North,female,1891-06-01,,Garcia
+1,Allred,Orson,4,Mexico,male,,,Garcia
+1,Allred,Enrique,3,Mexico,male,,,Garcia
+2,Bertleson,Ana D.,46,Denmark,female,1893-07-20,single,Garcia
+3,Bingham,Brigham H.,56,E.U. of North,male,1890-08-14,married,Garcia
+3,Bingham,Maria A.,36,E.U. of North,female,1890-08-14,married,Garcia
+3,Bingham,Ethel E.,11,E.U. of North,female,1890-08-14,,Garcia
+3,Bingham,Juan B.,9,E.U. of North,male,1890-08-14,,Garcia
+3,Bingham,Neanva A.,7,Mexico,female,,,Garcia
+3,Bingham,Manel E.,4,Mexico,female,,,Garcia
+3,Bingham,Dora,1/12,Mexico,female,,,Garcia
+4,Cluff,Hyrum,32,E.U. of North,male,1891-09-10,married,Garcia
+4,Cluff,Rhoda M.,27,E.U. of North,female,1891-09-10,married,Garcia
+4,Cluff,Rhoda A.,9,E.U. of North,female,1891-09-10,,Garcia
+4,Cluff,Sara M.,7,Mexico,female,,,Garcia
+4,Cluff,Barbara L.,5,Mexico,female,,,Garcia
+4,Cluff,Fern J.,3,Mexico,female,,,Garcia
+4,Cluff,Maria,1,Mexico,female,,,Garcia
+5,Cluff,Orson,51,E.U. of North,male,1980-05-15,married,Garcia
+5,Cluff,Harriet M.,43,E.U. of North,female,1890-10-27,married,Garcia
+5,Cluff,Harvey M.,21,E.U. of North,male,1890-10-27,single,Garcia
+5,Cluff,Farrington,18,E.U. of North,male,1890-10-27,,Garcia
+5,Cluff,Jose Adelison,15,E.U. of North,male,1890-10-27,,Garcia
+5,Cluff,Margarita H.,12,E.U. of North,female,1890-10-27,,Garcia
+5,Cluff,Hattie May,8,E.U. of North,female,1890-10-27,,Garcia
+5,Cluff,Ledun Albion,7,Mexico,male,,,Garcia
+5,Cluff,Ernesto V.,4,Mexico,male,,,Garcia
+5,Cluff,Jessie H.,2,Mexico,male,,,Garcia
+5,Cluff,Eva Irene,2,Mexico,female,,,Garcia
+6,Darton,Sara E.,,E.U. of North,female,,single,Garcia
+7,Farnsworth,Alonzo L.,56,E.U. of North,male,1893-07-20,married,Garcia
+7,Farnsworth,Maria A.,50,E.U. of North,female,1893-07-20,married,Garcia
+7,Farnsworth,Raymond A.,22,E.U. of North,male,1893-07-20,single,Garcia
+7,Farnsworth,Ernesto L.,20,E.U. of North,male,1893-07-20,single,Garcia
+7,Farnsworth,Lester B.,19,E.U. of North,male,1893-07-20,single,Garcia
+7,Farnsworth,Ida Bell,18,E.U. of North,female,1893-07-20,single,Garcia
+7,Farnsworth,Maria A.,17,E.U. of North,female,1893-07-20,single,Garcia
+7,Farnsworth,Steven,15,E.U. of North,male,1893-07-20,,Garcia
+7,Farnsworth,Ricardo,15,E.U. of North,male,1893-07-20,,Garcia
+7,Farnsworth,Elmer D.,13,E.U. of North,male,1893-07-20,,Garcia
+7,Farnsworth,ARtie,11,E.U. of North,female,1893-07-20,,Garcia
+7,Farnsworth,Franklin L.,9,E.U. of North,male,1893-07-20,,Garcia
+7,Farnsworth,Byron N.,9,E.U. of North,male,1893-07-20,,Garcia
+7,Farnsworth,Ana R.,8,E.U. of North,female,1893-07-20,,Garcia
+7,Farnsworth,Lara E.,7,E.U. of North,female,1893-07-20,,Garcia
+7,Farnsworth,Earl B.,5,Mexico,male,,,Garcia
+7,Farnsworth,Jennie T.,2,Mexico,female,,,Garcia
+8,Toutz,Lorania,40,E.U. of North,female,1893-04-15,widowed,Garcia
+8,Toutz,Effie,19,E.U. of North,female,1893-04-15,single,Garcia
+8,Toutz,Joel L.,17,E.U. of North,male,1893-04-15,,Garcia
+8,Toutz,Price W.,16,E.U. of North,male,1893-04-15,,Garcia
+8,Toutz,David,15,E.U. of North,male,1893-04-15,,Garcia
+8,Toutz,Perla,10,E.U. of North,female,1893-04-15,,Garcia
+8,Toutz,Eduardo,8,E.U. of North,male,1893-04-15,,Garcia
+9,Jacobson,J. A.,23,E.U. of North,male,1888-01-09,married,Garcia
+9,Jacobson,Lettie,21,E.U. of North,female,1888-01-09,married,Garcia
+9,Jacobson,Eva E.,1,Mexico,female,,,Garcia
+10,Nelson,J. M.,34,E.U. of North,male,,married,Garcia
+10,Nelson,Hannah B.,26,E.U. of North,female,,married,Garcia
+10,Nelson,Frene B.,7,Mexico,female,,,Garcia
+10,Nelson,Lorania,5,Mexico,female,,,Garcia
+10,Nelson,J. M. hijo,3,Mexico,male,,,Garcia
+10,Nelson,Lavita,1,Mexico,female,,,Garcia
+11,Nelson,Hyrum,36,E.U. of North,male,1888-03-16,married,Garcia
+11,Nelson,Marta F.,32,E.U. of North,female,1888-03-16,married,Garcia
+11,Nelson,Hyrum V.,11,E.U. of North,male,1888-03-16,,Garcia
+11,Nelson,Sara L.,8,Mexico,female,,,Garcia
+11,Nelson,Tomas Jorge,6,Mexico,male,,,Garcia
+11,Nelson,David S.,4,Mexico,male,,,Garcia
+11,Nelson,Ennis A.,2,Mexico,female,,,Garcia
+12,O'Donnal,Guillermo H.,48,E.U. of North,male,1897-11-04,married,Garcia
+12,O'Donnal,Magdalena,47,E.U. of North,female,1897-11-04,married,Garcia
+12,O'Donnal,Sumner D.,19,E.U. of North,male,1897-11-04,,Garcia
+12,O'Donnal,Juan F.,17,E.U. of North,male,1897-11-04,,Garcia
+12,O'Donnal,Laura E.,14,E.U. of North,female,1897-11-04,,Garcia
+12,O'Donnal,Charity S.,11,E.U. of North,female,1897-11-04,,Garcia
+12,O'Donnal,Oklahoma L.,8,E.U. of North,female,1897-11-04,,Garcia
+12,O'Donnal,Jorge H.,6,E.U. of North,male,1897-11-04,,Garcia
+13,Nelson,Ema J,33,E.U. of North,female,,single,Garcia
+14,Pearson,Sara E.,37,E.U. of North,female,,widowed,Garcia
+14,Pearson,Guillermo,16,E.U. of North,male,,,Garcia
+14,Pearson,Loraine,14,E.U. of North,male,,,Garcia
+14,Pearson,Vance,12,E.U. of North,male,,,Garcia
+14,Pearson,Estella,9,E.U. of North,female,,,Garcia
+14,Pearson,Leith,7,E.U. of North,female,,,Garcia
+14,Pearson,Avelan,5,E.U. of North,male,,,Garcia
+15,Ralph,Altia M.,43,E.U. of North,female,1891-06-01,,Garcia
+16,Tracy,Maria,24,E.U. of North,female,1890-11-24,,Garcia
+17,Schaffer,Vance,45,E.U. of North,male,1889-10-09,married,Garcia
+17,Schaffer,Welthy,42,E.U. of North,female,1889-10-09,married,Garcia
+17,Schaffer,Almina,6,Mexico,female,,,Garcia
+17,Schaffer,Clara,4,Mexico,female,,,Garcia
+17,Schaffer,Rulon,10/12,Mexico,male,,,Garcia
+18,Whetton,Juan T.,36,E.U. of North,male,1889-04-12,married,Garcia
+18,Whetton,Agnes B.,37,E.U. of North,female,1889-04-12,married,Garcia
+18,Whetton,Juan A.,19,E.U. of North,male,1889-04-12,,Garcia
+18,Whetton,Santiago E.,17,E.U. of North,male,1889-04-12,,Garcia
+18,Whetton,Maria B.,15,E.U. of North,female,1889-04-12,,Garcia
+18,Whetton,Carlos W.,9,E.U. of North,male,1889-04-12,,Garcia
+18,Whetton,Clarinda,7,Mexico,female,,,Garcia
+18,Whetton,Warren E.,3,Mexico,male,,,Garcia
+18,Whetton,Clifford Leon,2/12,Mexico,male,,,Garcia
+18,Whetton,Jose M.,9,E.U. of North,male,1889-04-12,,Garcia
+18,Whetton,Minda,6,Mexico,female,,,Garcia
+18,Whetton,Florance,4,Mexico,female,,,Garcia
+18,Whetton,Hazel,1,Mexico,female,,,Garcia

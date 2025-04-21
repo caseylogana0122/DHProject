@@ -1,0 +1,20 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+1,Johnson,Herber,43,American,male,1888-07-28,married,Guadaloupe
+1,Johnson,Sara E.,38,American,female,1888-07-28,married,Guadaloupe
+1,Johnson,Vivia E.,18,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Ovphia,17,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Cassie M.,15,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Boyd C.,13,American,male,1888-07-28,,Guadaloupe
+1,Johnson,Ava V.,11,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Harland H.,9,American,male,1888-07-28,,Guadaloupe
+2,Clark,Arthur B.,50,American,male,1888-07-28,,Guadaloupe
+2,Clark,Ellen,47,American,female,1888-07-28,,Guadaloupe
+2,Clark,Marinda,50,American,female,1903-07-13,married,Guadaloupe
+2,Clark,Ethel,28,American,female,1903-07-13,married,Guadaloupe
+2,Clark,Ernest,16,American,male,1903-07-13,,Guadaloupe
+2,Clark,Arson,13,American,male,1903-07-13,,Guadaloupe
+2,Clark,Leroy H.,13,American,male,1903-07-13,,Guadaloupe
+2,Mc,Omber C.,19,American,male,1903-07-13,,Guadaloupe
+3,Clark,F. J.,21,American,female,1905-11-26,married,Guadaloupe
+3,Clark,Dora,20,American,male,1905-11-26,married,Guadaloupe
+3,Clark,Ruth,1,American,male,1905-11-26,,Guadaloupe

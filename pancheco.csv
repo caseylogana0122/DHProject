@@ -1,0 +1,190 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+1,Bueroft,Juan C.,26,E.U. of North,male,,married,Pacheco
+1,Bueroft,Adelia F.,17,E.U. of North,female,,married,Pacheco
+2,Black,Era M.,32,E.U. of North,female,1885-03-10,single,Pacheco
+3,Black,Morley L.,23,E.U. of North,male,1891-01-09,married,Pacheco
+3,Black,Lydia Ellen,18,E.U. of North,female,1891-01-09,married,Pacheco
+3,Black,Guillermo M.,1,Mexico,male,,,Pacheco
+4,Black,Ratchel A.,36,E.U. of North,female,1890-12-15,single,Pacheco
+5,Black,David P.,24,E.U. of North,male,1891-01-09,married,Pacheco
+5,Black,Theda,22,E.U. of North,female,1891-01-09,married,Pacheco
+5,Black,Theda May,4,Mexico,female,,,Pacheco
+5,Black,Hasel E.,1,Mexico,male,,,Pacheco
+6,Black,Guellermo M.,72,E.U. of North,male,1888-06,married,Pacheco
+6,Black,Ana Maria,57,Denmark,female,1890-01,married,Pacheco
+7,Carroll,Santiago F.,28,E.U. of North,male,1890-11,married,Pacheco
+7,Carroll,Maria B.,23,E.U. of North,female,1891-01,married,Pacheco
+7,Carroll,Carlos,1,Mexico,male,1893-10,married,Pacheco
+8,Cooley,O. B.,54,E.U. of North,male,1894-04-29,married,Pacheco
+8,Cooley,F. I.,49,E.U. of North,female,1894-04-29,married,Pacheco
+8,Cooley,Geneva,16,E.U. of North,female,1894-04-29,,Pacheco
+8,Cooley,Jose,12,E.U. of North,male,1894-04-29,,Pacheco
+8,Cooley,Freeman,9,E.U. of North,male,1894-04-29,,Pacheco
+8,Cooley,Herman,4,E.U. of North,male,1894-04-29,,Pacheco
+8,Cooley,Ada,4,E.U. of North,female,1894-04-29,,Pacheco
+9,Farnsworth,Agustin M.,59,E.U. of North,male,1892-06-28,married,Pacheco
+9,Farnsworth,Agatha A.,35,E.U. of North,female,1892-06-28,married,Pacheco
+9,Farnsworth,Elnora,5,Mexico,female,,,Pacheco
+9,Farnsworth,Ina,3,Mexico,female,,,Pacheco
+9,Farnsworth,Agustin M. hijo,1,Mexico,male,,,Pacheco
+10,Goner,Ana,54,England,female,1891-10,single,Pacheco
+11,Guyman,W. R.,33,E.U. of North,male,1898-01-23,married,Pacheco
+11,Guyman,Harriet,25,E.U. of North,female,1898-01-23,married,Pacheco
+11,Guyman,Ethel,8,E.U. of North,female,1898-01-23,,Pacheco
+11,Guyman,Ratchel,6,E.U. of North,female,1898-01-23,,Pacheco
+11,Guyman,Morley,4,E.U. of North,male,1898-01-23,,Pacheco
+11,Guyman,Hazel,6/12,E.U. of North,female,1898-01-23,,Pacheco
+12,Hancock,Jose W.,41,E.U. of North,male,1890-01,married,Pacheco
+12,Hancock,Jerusha,33,E.U. of North,female,1890-01,married,Pacheco
+12,Hancock,Sara C.,5,Mexico,female,,,Pacheco
+12,Hancock,Maria A.,3,Mexico,female,,,Pacheco
+12,Hancock,Francis L.,1,Mexico,male,,,Pacheco
+13,Hardy,Aaron B.,22,E.U. of North,male,1892-02-20,married,Pacheco
+13,Hardy,Maria P.,18,E.U. of North,female,1891-02-20,married,Pacheco
+13,Hardy,Warner,4/12,Mexico,male,,,Pacheco
+14,Hardy,Abel W.,20,E.U. of North,male,1891-02-20,married,Pacheco
+14,Hardy,Maria C.,17,E.U. of North,female,1894-04-28,married,Pacheco
+15,Hardy,Maria Ana,36,E.U. of North,female,1892-01-15,single,Pacheco
+16,Hardy,Juan D.,27,E.U. of North,male,1891-05-15,married,Pacheco
+16,Hardy,Lydia J.,24,E.U. of North,female,1890,married,Pacheco
+16,Hardy,Joseph G.,4/12,Mexico,male,,,Pacheco
+17,Hardy,Jorge W.,34,E.U. of North,male,1891-05-15,married,Pacheco
+17,Hardy,Julia A.,37,E.U. of North,female,1891-05-15,married,Pacheco
+17,Hardy,Jorge G.,11,E.U. of North,male,1891-05-15,,Pacheco
+17,Hardy,Julia I.,8,E.U. of North,female,,,Pacheco
+17,Hardy,Teresa,6,Mexico,female,,,Pacheco
+17,Hardy,David R.,4,Mexico,male,,,Pacheco
+18,Haws,Martha,39,England,female,1885-09,widowed,Pacheco
+18,Haws,Juan Wallace,20,E.U. of North,male,1885-09,single,Pacheco
+18,Haws,Carlos J.,17,E.U. of North,male,1885-09,,Pacheco
+18,Haws,Jose F.,15,E.U. of North,male,1885-09,,Pacheco
+18,Haws,Laura P.,13,E.U. of North,female,,,Pacheco
+18,Haws,Guillirmo G.,11,Mexico,male,,,Pacheco
+18,Haws,Erastus S.,9,Mexico,male,,,Pacheco
+18,Haws,Clor,7,Mexico,female,,,Pacheco
+18,Haws,Maria,4,Mexico,female,,,Pacheco
+18,Haws,Martha,4,Mexico,female,,,Pacheco
+19,Jensen,Jens,68,Denmark,male,1891-03-24,married,Pacheco
+19,Jensen,Maria E.,35,E.U. of North,female,1891-03-24,married,Pacheco
+19,Jensen,Santiago I.,9,E.U. of North,male,1891-03-24,,Pacheco
+19,Jensen,Martha A.,6,Mexico,female,,,Pacheco
+19,Jensen,Maria M.,5,Mexico,female,,,Pacheco
+19,Jensen,Hedevid,5,Mexico,male,,,Pacheco
+19,Jensen,Ana,4,Mexico,female,,,Pacheco
+19,Jensen,Samuel,2,Mexico,male,,,Pacheco
+19,Jensen,Syrine,2,Mexico,female,,,Pacheco
+19,Jensen,Moroni,3/12,Mexico,male,,,Pacheco
+19,Jensen,Nephi,2/12,Mexico,male,,,Pacheco
+20,Jensen,Marine,26,Denmark,female,1891-03-24,single,Pacheco
+21,Johnson,Jorge,26,E.U. of North,male,1890-01-09,married,Pacheco
+21,Johnson,Ema,21,E.U. of North,female,1890-01-09,married,Pacheco
+21,Johnson,Lydia,2,Mexico,female,,,Pacheco
+21,Johnson,Ema hija,8/12,Mexico,female,,,Pacheco
+22,Kartehuer,Juan,46,E.U. of North,male,1885-03-10,married,Pacheco
+22,Kartehuer,Naney J.,34,E.U. of North,female,1885-03-10,married,Pacheco
+22,Kartehuer,Howard,18,E.U. of North,male,1885-03-10,,Pacheco
+22,Kartehuer,Alzaida,13,Mexico,female,,,Pacheco
+22,Kartehuer,Mark,10,Mexico,male,,,Pacheco
+22,Kartehuer,Lydia M.,9,Mexico,female,,,Pacheco
+22,Kartehuer,Arzie R.,8,Mexico,male,1885-03-10,,Pacheco
+22,Kartehuer,Lelia,7,Mexico,female,,,Pacheco
+22,Kartehuer,Guillermo J.,6,Mexico,male,,,Pacheco
+22,Kartehuer,Franklin S.,5,E.U. of North,male,,,Pacheco
+22,Kartehuer,Enrique B.,3,Mexico,male,,,Pacheco
+22,Kartehuer,Arnoldo G.,11/12,Mexico,male,,,Pacheco
+23,Lunt,Enrique B.,74,England,male,1890-01,married,Pacheco
+23,Lunt,Ellen U.,68,England,female,1891-10,married,Pacheco
+23,Lunt,Tomas A.,20,E.U. of North,male,1891-10,,Pacheco
+23,Lunt,Egerton R.,19,E.U. of North,male,1891-10,,Pacheco
+23,Lunt,Ellen U.,17,E.U. of North,female,1891-10,,Pacheco
+23,Lunt,Bronghten L.,17,E.U. of North,male,1891-10,,Pacheco
+23,Lunt,Rachel A.,15,E.U. of North,female,1891-10,,Pacheco
+23,Lunt,Parley L.,15,E.U. of North,male,1891-10,,Pacheco
+23,Lunt,Eduardo,13,E.U. of North,male,1891-10,,Pacheco
+23,Lunt,Heaton,10,E.U. of North,male,1891-10,,Pacheco
+23,Lunt,Alma,8,Mexico,male,,,Pacheco
+23,Lunt,Own,5,Mexico,male,,,Pacheco
+23,Lunt,Clarence,2,Mexico,male,,,Pacheco
+24,Lunt,Sara Ana,37,E.U. of North,female,1891-10,single,Pacheco
+25,Lunt,Orsen,27,E.U. of North,male,1890-01,married,Pacheco
+25,Lunt,Martha Ana,17,E.U. of North,female,1889-03,married,Pacheco
+26,Lunt,Jorge,24,E.U. of North,male,1890-01,married,Pacheco
+26,Lunt,Kindness F.,17,E.U. of North,female,1890-01,married,Pacheco
+27,Mecham,Lucian M.,35,E.U. of North,male,1891-03-18,married,Pacheco
+27,Mecham,Laura A.,34,E.U. of North,female,1891-03-18,married,Pacheco
+27,Mecham,Maria T.,5,Mexico,female,,,Pacheco
+27,Mecham,Lucian M. hijo,8/12,Mexico,male,,,Pacheco
+28,Palmer,Santiago W.,37,E.U. of North,male,1885-03-10,married,Pacheco
+28,Palmer,Olivia M.,33,E.U. of North,female,1885-03-10,married,Pacheco
+28,Palmer,Guillermo J.,15,E.U. of North,male,1885-03-10,,Pacheco
+28,Palmer,Santiago A.,13,E.U. of North,male,1885-03-10,,Pacheco
+28,Palmer,Ellis,11,Mexico,male,,,Pacheco
+28,Palmer,Rachel O.,9,Mexico,female,,,Pacheco
+28,Palmer,Chloe A.,7,Mexico,female,,,Pacheco
+28,Palmer,Juan D.,5,Mexico,male,,,Pacheco
+28,Palmer,Ida,3,Mexico,female,,,Pacheco
+28,Palmer,Loran,1,Mexico,male,,,Pacheco
+28,Palmer,Edson,11,Mexico,male,,,Pacheco
+28,Palmer,Benjamino E.,9,Mexico,male,,,Pacheco
+28,Palmer,Newell,7,Mexico,male,,,Pacheco
+28,Palmer,Aimy J.,6,Mexico,female,,,Pacheco
+28,Palmer,Maria Ana,3,Mexico,female,,,Pacheco
+28,Palmer,Juanita,8/12,Mexico,female,,,Pacheco
+29,Porter,Warner A.,50,E.U. of North,male,1890-01,married,Pacheco
+29,Porter,Maria M.,46,E.U. of North,female,1890-01,married,Pacheco
+29,Porter,Effie V.,20,E.U. of North,female,1890-01,single,Pacheco
+29,Porter,Jessie S.,15,E.U. of North,male,1890-01,,Pacheco
+29,Porter,Omni M.,15,E.U. of North,male,1890-01,,Pacheco
+29,Porter,Cynthia J.,13,E.U. of North,female,1890-01,,Pacheco
+29,Porter,Jose H.,13,E.U. of North,male,1890-01,,Pacheco
+29,Porter,Hyrum E.,13,E.U. of North,male,1890-01,,Pacheco
+29,Porter,Myrtle D.,10,E.U. of North,female,1890-01,,Pacheco
+29,Porter,Abrnadi,9,E.U. of North,male,1890-01,,Pacheco
+29,Porter,Hathie H.,7,Mexico,female,,,Pacheco
+29,Porter,Millie Mand,6,Mexico,female,,,Pacheco
+29,Porter,Ablona,4,Mexico,female,,,Pacheco
+29,Porter,Mabel A.,2,Mexico,female,,,Pacheco
+29,Porter,Cristina,1/12,Mexico,male,,,Pacheco
+30,Porter,Walter R.,28,E.U. of North,male,1890-01,married,Pacheco
+30,Porter,Ablona,18,E.U. of North,female,1890-01,married,Pacheco
+31,Provus,Lovina D.,26,E.U. of North,female,1893-10,single,Pacheco
+32,Rowley,Orisa J.,36,E.U. of North,female,1889-03-18,widowed,Pacheco
+32,Rowley,Jorge W.,19,E.U. of North,male,1889-03-18,,Pacheco
+32,Rowley,Jose H.,14,E.U. of North,male,1889-03-18,,Pacheco
+32,Rowley,Moises A.,12,E.U. of North,male,1889-03-18,,Pacheco
+32,Rowley,Ernest E.,9,E.U. of North,male,1889-03-18,,Pacheco
+32,Rowley,Luisa,7,Mexico,female,,,Pacheco
+32,Rowley,Kattie Mayo,4,Mexico,female,,,Pacheco
+33,Rowley,Ema O.,39,E.U. of North,female,1889-10-31,widowed,Pacheco
+33,Rowley,Lorenzo J.,21,E.U. of North,male,1889-10-31,single ,Pacheco
+33,Rowley,Guillermo P.,17,E.U. of North,male,1889-10-31,,Pacheco
+33,Rowley,Alicia,15,E.U. of North,female,1889-10-31,,Pacheco
+33,Rowley,David L.,13,E.U. of North,male,1889-10-31,,Pacheco
+33,Rowley,Julia,11,E.U. of North,female,1889-10-31,,Pacheco
+33,Rowley,Ema S.,19,E.U. of North,female,1889-10-31,single,Pacheco
+34,Sellers,Maria M.,42,England,female,1890-10-01,widowed,Pacheco
+34,Sellers,Adelbert N.,16,E.U. of North,male,1890-10-01,,Pacheco
+34,Sellers,Santiago E.,11,E.U. of North,male,1890-10-01,,Pacheco
+34,Sellers,Ana E.,9,E.U. of North,female,1890-10-01,,Pacheco
+34,Sellers,Jose F.,7,Mexico,male,,,Pacheco
+35,Sheurer,Samuel,37,E.U. of North,male,1891-01-09,single,Pacheco
+36,Slade,Ysabel,27,E.U. of North,female,1889-10,single,Pacheco
+37,Steiner,Juan Ernest,29,Switzarland,male,1889-12,married,Pacheco
+37,Steiner,Martha L.,24,E.U. of North,female,1889-12,married,Pacheco
+37,Steiner,Clara,6,Mexico,female,,,Pacheco
+37,Steiner,Ernest H.,4,Mexico,male,,,Pacheco
+38,Stevens,Walter J.,41,E.U. of North,male,1891-02-07,married,Pacheco
+38,Stevens,Ysabel,36,E.U. of North,female,1891-02-07,married,Pacheco
+38,Stevens,Pheobe E.,17,E.U. of North,female,1891-02-07,,Pacheco
+38,Stevens,Walter J. hijo,15,E.U. of North,female,1891-02-07,,Pacheco
+38,Stevens,Rebeca,13,E.U. of North,female,1891-02-07,,Pacheco
+38,Stevens,Ella,9,E.U. of North,female,1891-02-07,,Pacheco
+38,Stevens,Guillermo A.,7,Mexico,male,,,Pacheco
+38,Stevens,Amon C.,5,Mexico,male,,,Pacheco
+38,Stevens,Ema,3,Mexico,female,,,Pacheco
+38,Stevens,Abba,1,Mexico,female,,,Pacheco
+39,Thompson,Marinda,56,E.U. of North,female,1890-01-09,single,Pacheco
+40,Young,Guillermo,23,E.U. of North,male,,married,Pacheco
+40,Young,Ana Eliza,19,E.U. of North,female,,married,Pacheco
+40,Young,Guillermo hijo,2,Mexico,male,,,Pacheco
+40,Young,May T.,10/12,E.U. of North,female,,,Pacheco
