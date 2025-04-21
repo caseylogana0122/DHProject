@@ -16,7 +16,7 @@ male_count = df_pa['sex_indicated'].str.lower().value_counts().get('male', 0)
 print(male_count)
 
 # Count how many times 'female' appears in 'sex_indicated' AND 'single' appears in 'marriage_status'
-female_single_count = df_chu[
+female_single_count = df_pa[
     (df_pa['sex_indicated'].str.lower() == 'female') &
     (df_pa['marriage_status'].str.lower() == 'single')
 ].shape[0]
