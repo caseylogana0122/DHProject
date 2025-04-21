@@ -272,7 +272,7 @@ fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marr
 65,Martinean,Stanley,2/12,Mexico,male,,,Juarez
 66,Martinean,Santiago H.,70,E.U. of North,male,1889-02-23,married,Juarez
 66,Martinean,Susana E.,62,E.U. of North,female,1889-02-23,married,Juarez
-66,Martinean,Gertrudis,27,E.U. of North,,1889-02-23,single,Juarez
+66,Martinean,Gertrudis,27,E.U. of North,female,1889-02-23,single,Juarez
 66,Martinean,Feadora,25,E.U. of North,male,1889-02-23,single,Juarez
 66,Martinean,Dora,15,E.U. of North,female,1889-02-23,single,Juarez
 67,McClellan,David A.,33,E.U. of North,male,1886-05-07,married,Juarez

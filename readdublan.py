@@ -1,6 +1,8 @@
 import pandas as pd
 import csv
 from collections import Counter
+import numpy as np
+import matplotlib.pyplot as plt
 
 #Read CSV file.
 df_dublan = pd.read_csv('dublan.csv')
@@ -20,11 +22,7 @@ female_single_count = df_dublan[
 ].shape[0]
 print(female_single_count)
 
-
-
-
-
-
-
-
-
+y = np.array([female_count, male_count])
+mylabels = ['Females', 'Males']
+plt.pie(y, labels=mylabels)
+plt.show()
