@@ -17,8 +17,8 @@ print(male_count)
 
 #Count how mnay times 'female' appears in 'sex_indicated' AND 'married' appears in 'marriage_status'
 female_married_count = df_chu[
-    (df_dublan['sex_indicated'].str.lower() == 'female') &
-    (df_dublan['marriage_status'].str.lower() == 'married')
+    (df_chu['sex_indicated'].str.lower() == 'female') &
+    (df_chu['marriage_status'].str.lower() == 'married')
 ].shape[0]
 print(female_married_count)
 
