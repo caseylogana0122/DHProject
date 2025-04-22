@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #Read CSV file.
-df_gar = pd.read_csv('chuichupa.csv')
+df_gar = pd.read_csv('garcia.csv')
 
 #Count how many women are in the colony
 female_count = df_gar['sex_indicated'].str.lower().value_counts().get('female', 0)
