@@ -37,7 +37,7 @@ male_single_count = df_dublan[
 print(male_single_count)
 
 # Count how many times 'male' appears in 'sex_indicated' AND 'married' appears in 'marriage_status'
-male_married_count = df_juarez[
+male_married_count = df_dublan[
     (df_dublan['sex_indicated'].str.lower() == 'male') &
     (df_dublan['marriage_status'].str.lower() == 'married')
 ].shape[0]

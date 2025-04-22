@@ -23,7 +23,7 @@ female_married_count = df_pa[
 print(female_married_count)
 
 # Count how many times 'female' appears in 'sex_indicated' AND 'single' appears in 'marriage_status'
-female_single_count = df_juarez[
+female_single_count = df_pa[
     (df_pa['sex_indicated'].str.lower() == 'female') &
     (df_pa['marriage_status'].str.lower() == 'single')
 ].shape[0]
