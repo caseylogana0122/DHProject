@@ -21,7 +21,7 @@ male_count = (df_pa['sex_indicated'].str.lower().value_counts().get('male', 0) +
 print(male_count)
 
 #Creating Pie Chart with Labeled Gender Distrubution throughout Mormon Colonies
-y = np.array(female_count, male_count)
+y = np.array([female_count, male_count])
 mylabels = ['Females', 'Males',]
 colors = ['pink', 'blue']
 
@@ -114,3 +114,16 @@ plt.title("Married-to-Single Females Throughout Mormon Colonies")
 plt.pie(y, labels=mylabels, colors=colors, autopct=autopct_format)
 plt.show()
 
+#Generate a list of all single females in the colonies
+single_females = pd.concat([
+    df_chu[(df_chu['sex_indicated'].str.lower() == 'female') & (df_chu['marriage_status'].str.lower() == 'single')],
+    df_pa[(df_pa['sex_indicated'].str.lower() == 'female') & (df_pa['marriage_status'].str.lower() == 'single')],
+    df_diaz[(df_diaz['sex_indicated'].str.lower() == 'female') & (df_diaz['marriage_status'].str.lower() == 'single')],
+    df_dublan[(df_dublan['sex_indicated'].str.lower() == 'female') & (df_dublan['marriage_status'].str.lower() == 'single')],
+    df_gar[(df_gar['sex_indicated'].str.lower() == 'female') & (df_gar['marriage_status'].str.lower() == 'single')],
+    df_gua[(df_gua['sex_indicated'].str.lower() == 'female') & (df_gua['marriage_status'].str.lower() == 'single')],
+    df_juarez[(df_juarez['sex_indicated'].str.lower() == 'female') & (df_juarez['marriage_status'].str.lower() == 'single')]
+])
+
+# Display the list of single females
+print(single_females)
