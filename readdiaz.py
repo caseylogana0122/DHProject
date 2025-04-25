@@ -8,6 +8,10 @@ import matplotlib.pyplot as plt
 #Read CSV file.
 df_diaz = pd.read_csv('diaz.csv')
 
+# Clean the 'sex_indicated' and 'marriage_status' columns to ensure consistent formatting
+df_diaz['sex_indicated'] = df_diaz['sex_indicated'].str.strip().str.lower().fillna('unknown')
+df_diaz['marriage_status'] = df_diaz['marriage_status'].str.strip().str.lower().fillna('unknown')
+
 #Count how many women are in the colony
 female_count = df_diaz['sex_indicated'].str.lower().value_counts().get('female', 0)
 print(female_count)

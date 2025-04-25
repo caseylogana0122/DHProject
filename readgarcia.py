@@ -7,6 +7,10 @@ import matplotlib.pyplot as plt
 #Read CSV file.
 df_gar = pd.read_csv('garcia.csv')
 
+# Clean the 'sex_indicated' and 'marriage_status' columns to ensure consistent formatting
+df_gar['sex_indicated'] = df_gar['sex_indicated'].str.strip().str.lower().fillna('unknown')
+df_gar['marriage_status'] = df_gar['marriage_status'].str.strip().str.lower().fillna('unknown')
+
 #Count how many women are in the colony
 female_count = df_gar['sex_indicated'].str.lower().value_counts().get('female', 0)
 print(female_count)

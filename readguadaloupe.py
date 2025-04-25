@@ -8,6 +8,10 @@ import matplotlib.pyplot as plt
 #Read CSV file.
 df_gua = pd.read_csv('guadaloupe.csv')
 
+# Clean the 'sex_indicated' and 'marriage_status' columns to ensure consistent formatting
+df_gua['sex_indicated'] = df_gua['sex_indicated'].str.strip().str.lower().fillna('unknown')
+df_gua['marriage_status'] = df_gua['marriage_status'].str.strip().str.lower().fillna('unknown')
+
 #Count how many women are in the colony
 female_count = df_gua['sex_indicated'].str.lower().value_counts().get('female', 0)
 print(female_count)

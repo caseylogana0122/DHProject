@@ -7,6 +7,10 @@ import matplotlib.pyplot as plt
 #Read CSV file.
 df_juarez = pd.read_csv('juarez.csv')
 
+# Clean the 'sex_indicated' and 'marriage_status' columns to ensure consistent formatting
+df_juarez['sex_indicated'] = df_juarez['sex_indicated'].str.strip().str.lower().fillna('unknown')
+df_juarez['marriage_status'] = df_juarez['marriage_status'].str.strip().str.lower().fillna('unknown')
+
 #Count how many women are in the colony
 female_count = df_juarez['sex_indicated'].str.lower().value_counts().get('female', 0)
 print(female_count)
