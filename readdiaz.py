@@ -56,7 +56,7 @@ def autopct_format(pct):
     absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
-plt.title("Total Gender Distribution in Colony Diaz")
+plt.title("Total Labeled Gender Distribution in Colony Diaz")
 plt.pie(y, labels=mylabels, colors=colors, autopct=autopct_format)
 plt.show()
 
@@ -71,6 +71,6 @@ def autopct_format(pct):
     absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
-plt.title("Married-to-Single Distribution in Diaz Dublán")
+plt.title("Total Labeled Married-to-Single Distribution in Colony Diaz")
 plt.pie(y, labels=mylabels, explode=myexplode, colors=colors, autopct=autopct_format)
 plt.show()
