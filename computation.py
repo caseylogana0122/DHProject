@@ -1,6 +1,5 @@
+import math
 import pandas as pd
-import csv
-from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -22,7 +21,7 @@ male_count = (df_pa['sex_indicated'].str.lower().value_counts().get('male', 0) +
 print(male_count)
 
 #Creating Pie Chart with Labeled Gender Distrubution throughout Mormon Colonies
-y = np.array([female_count, male_count,])
+y = np.array(female_count, male_count)
 mylabels = ['Females', 'Males',]
 colors = ['pink', 'blue']
 
