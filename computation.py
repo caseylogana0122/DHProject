@@ -115,7 +115,7 @@ plt.pie(y, labels=mylabels, colors=colors, autopct=autopct_format)
 plt.show()
 
 #Generate a list of all single females in the colonies
-single_females = pd.concat([
+df = single_females = pd.concat([
     df_chu[(df_chu['sex_indicated'].str.lower() == 'female') & (df_chu['marriage_status'].str.lower() == 'single')],
     df_pa[(df_pa['sex_indicated'].str.lower() == 'female') & (df_pa['marriage_status'].str.lower() == 'single')],
     df_diaz[(df_diaz['sex_indicated'].str.lower() == 'female') & (df_diaz['marriage_status'].str.lower() == 'single')],
@@ -127,3 +127,6 @@ single_females = pd.concat([
 
 # Display the list of single females
 print(single_females)
+
+df.to_csv('single_females.csv', index=False)
+# This will create a new CSV file named 'single_females.csv' with the combined data.

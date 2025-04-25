@@ -1,0 +1,126 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+5,Chestnut,Grace,26,E.U. of North,female,1894-10,single,Chuichupa
+8,Hakes,Enrique,29,E.U. of North,female,1894-05-01,single,Chuichupa
+13,Martineau,Berta M.,18,E.U. of North,female,,single,Chuichupa
+15,Russell,Sara E.,55,E.U. of North,female,,single,Chuichupa
+2,Black,Era M.,32,E.U. of North,female,1885-03-10,single,Pacheco
+4,Black,Ratchel A.,36,E.U. of North,female,1890-12-15,single,Pacheco
+10,Goner,Ana,54,England,female,1891-10,single,Pacheco
+15,Hardy,Maria Ana,36,E.U. of North,female,1892-01-15,single,Pacheco
+20,Jensen,Marine,26,Denmark,female,1891-03-24,single,Pacheco
+24,Lunt,Sara Ana,37,E.U. of North,female,1891-10,single,Pacheco
+29,Porter,Effie V.,20,E.U. of North,female,1890-01,single,Pacheco
+31,Provus,Lovina D.,26,E.U. of North,female,1893-10,single,Pacheco
+33,Rowley,Ema S.,19,E.U. of North,female,1889-10-31,single,Pacheco
+36,Slade,Ysabel,27,E.U. of North,female,1889-10,single,Pacheco
+39,Thompson,Marinda,56,E.U. of North,female,1890-01-09,single,Pacheco
+1,Acord,Secelia,24,E.U. of North,female,1886-11-15,single,Diaz
+1,Acord,Clara,22,E.U. of North,female,1886-11-15,single,Diaz
+4,Adams,Maria F.,35,E.U. of North,female,1885-03-08,single,Diaz
+8,Anderson,Naney,30,E.U. of North,female,1891-11-05,single,Diaz
+11,Bloomfield,Eliza,34,E.U. of North,female,1890-04-27,single,Diaz
+13,Brown,Luey,39,E.U. of North,female,1891-10,single,Diaz
+15,Cram,Charlesetta,37,E.U. of North,female,,single,Diaz
+17,Done,Caralina,33,E.U. of North,female,1891-12-01,single,Diaz
+26,Galbraith,Lizzie F.,22,E.U. of North,female,1889-10-11,single,Diaz
+31,Gruwell,Millie,22,E.U. of North,female,1887-10-09,single,Diaz
+31,Gruwell,Josefa,19,E.U. of North,female,1887-10-09,single,Diaz
+34,Hausen,Margarita,42,Denmark,female,1889-12-26,single,Diaz
+38,Jacobson,Eliza,29,E.U. of North,female,1885-03,single,Diaz
+45,Jorgenson,Ysabel,23,E.U. of North,female,1887-05,single,Diaz
+46,Johnson,Maria,42,Denmark,female,1892-03,single,Diaz
+47,Johnson,Annie M.,30,E.U. of North,female,1891-04,single,Diaz
+48,Johnson,Hannah J.,25,E.U. of North,female,1891-10,single,Diaz
+51,Johnson,Ana Mahisa,37,E.U. of North,female,1890-10-01,single,Diaz
+56,Laws,Jennie A.,21,E.U. of North,female,1891-11-09,single,Diaz
+57,Leavit,Teresa,31,E.U. of North,female,1887-01-27,single,Diaz
+60,Lemons,Nora,20,E.U. of North,female,1896-10-30,single,Diaz
+63,Larsen,Maria E.,35,E.U. of North,female,1891-03,single,Diaz
+64,Marble,Lucy,42,E.U. of North,female,1885-02-23,single,Diaz
+72,Mortenson,Emma F.,22,E.U. of North,female,1886-03-25,single,Diaz
+72,Mortenson,Maria A.,19,E.U. of North,female,1886-03-25,single,Diaz
+72,Mortenson,Dagmar C.,17,E.U. of North,female,1886-03-25,single,Diaz
+73,Mortenson,Elena B.,21,E.U. of North,female,1887-08,single,Diaz
+77,McIlvaing,Eliza,40,Ireland,female,1889-11-07,single,Diaz
+80,Orton,Julia A.,36,E.U. of North,female,1887-11-14,single,Diaz
+85,Pierce,Phoebe,33,E.U. of North,female,1886-10-30,single,Diaz
+89,Riggs,Maria A.,35,E.U. of North,female,1885-04-20,single,Diaz
+90,Rogers,Orpha A.,37,E.U. of North,female,1887-01-03,single,Diaz
+91,Rogers,Sara J.,42,E.U. of North,female,1887-01-03,single,Diaz
+99,Star,Lora,40,E.U. of North,female,1885,single,Diaz
+1,Adams,Hettie M,26,E.U. of North,female,1891-03-01,single,Dublan
+4,Anderson,Sofia,46,Switzerland,female,1889-06-23,single,Dublan
+15,Carling,Pheobe M.,29,E.U. of North,female,1890-09,single,Dublan
+16,Carling,Sara,42,E.U. of North,female,1890-09,single,Dublan
+19,Clement,Nernoy A.,25,,female,1890-08-26,single,Dublan
+22,Curtis,Ruth,27,E.U. of North,female,1891-10-25,single,Dublan
+27,Gardner,Aggie,33,E.U. of North,female,1895-05-01,single,Dublan
+28,Gibson,Ema,44,England,female,1891-03,single,Dublan
+52,Maxwell,Lottie,36,E.U. of North,female,,single,Dublan
+53,McClellan,Rhoda N.,28,E.U. of North,female,1887-01,single,Dublan
+55,Mortensen,Rebeca J.,19,E.U. of North,female,1889-03-20,single,Dublan
+68,Pratt,Dora,20,E.U. of North,female,1887-01-20,single,Dublan
+74,Sanderson,Rebeca A.,40,E.U. of North,female,1891-05,single,Dublan
+77,Snow,Julia,48,E.U. of North,female,1889-05-31,single,Dublan
+81,Tenney,Pheobe R.,22,E.U. of North,female,1891-03-01,single,Dublan
+86,Walsen,Annie,28,E.U. of North,female,1891-10,single,Dublan
+92,Wilson,Maria M.,29,E.U. of North,female,1890-01-10,single,Dublan
+93,Wilcken,Dora,44,Germany,female,1887-01-20,single,Dublan
+94,Wilcken,Berta,35,E.U. of North,female,1887-01-20,single,Dublan
+107,Sovenseu,Matilda,25,Danish,female,1903-06-22,single,Dublan
+1,Allred,Altie,17,E.U. of North,female,1891-06-01,single,Garcia
+2,Bertleson,Ana D.,46,Denmark,female,1893-07-20,single,Garcia
+6,Darton,Sara E.,,E.U. of North,female,,single,Garcia
+7,Farnsworth,Ida Bell,18,E.U. of North,female,1893-07-20,single,Garcia
+7,Farnsworth,Maria A.,17,E.U. of North,female,1893-07-20,single,Garcia
+8,Toutz,Effie,19,E.U. of North,female,1893-04-15,single,Garcia
+13,Nelson,Ema J,33,E.U. of North,female,,single,Garcia
+3,Alexander,Rosila,28,E.U. Of North,female,1890-10-03,single,Juarez
+7,Beneh,Susan,33,E.U. Of North,female,1891-12-24,single,Juarez
+9,Boise,Maria,22,E.U. Of North,female,1889-03,single,Juarez
+13,Byber,Rhoda,30,E.U. Of North,female,1889-12-24,single,Juarez
+14,Barrell,Lilley,21,England,female,1890-09-25,single,Juarez
+14,Barrell,Emilia,19,England,female,1890-09-25,single,Juarez
+14,Barrell,Ana,18,England,female,1890-09-25,single,Juarez
+14,Barrell,Yoabel,16,England,female,1890-09-25,single,Juarez
+20,Cluff,Susana Ana,27,E.U. of America,female,1890-01-01,single,Juarez
+24,Cottam,Caterina J.,45,E.U. of North,female,1887-01-22,single,Juarez
+26,Cristenson,Luana M.,29,E.U. of North,female,1887-02,single,Juarez
+27,Dalley,Eliza B.,43,E.U. of North,female,,single,Juarez
+29,Duthir,Ines,12,E.U. of North,female,1897-06-17,single,Juarez
+29,Duthir,Luisa,10,E.U. of North,female,1897-06-17,single,Juarez
+29,Duthir,Victoria B.,1,Mexico,female,,single,Juarez
+30,Davis,Lousia S.,19,E.U. of North,female,1888-01-10,single,Juarez
+30,Davis,Ester,15,E.U. of North,female,1888-01-10,single,Juarez
+30,Davis,Enriqueta,14,E.U. of North,female,1888-01-10,single,Juarez
+30,Davis,Martha Pearla,11,E.U. of North,female,1888-01-10,single,Juarez
+31,Davis,Sara,50,England,female,1885-10-10,single,Juarez
+35,Fawcett,Deseret,46,E.U. of North,female,1887-04-05,single,Juarez
+37,Flake,Juana,29,E.U. of North,female,1889-03-21,single,Juarez
+38,Frisch Mencht,Maria Luisa,47,Switzerland,female,1890-09,single,Juarez
+39,Galbraith,Juana B.,19,E.U. of North,female,1891,single,Juarez
+45,Haws,Josefa hija,19,E.U. of North,female,1890-01-01,single,Juarez
+55,Jenson,Andria,25,Denmark,female,1890-08,single,Juarez
+57,Johnson,Ana M.,35,E.U. of North,female,1885-03-21,single,Juarez
+64,McKnight,Anna Ysabel,33,E.U. of North,female,1887-05-19,single,Juarez
+66,Martinean,Gertrudis,27,E.U. of North,female,1889-02-23,single,Juarez
+66,Martinean,Dora,15,E.U. of North,female,1889-02-23,single,Juarez
+72,McKinney,Lenna G.,32,E.U. of North,female,1889-05-21,single,Juarez
+77,Peterson,Augusta,34,Switzerland,female,1892-06,single,Juarez
+82,Richardson,Eliza,48,E.U. of North,female,1886-05,single,Juarez
+86,Schlatter,Carola E.B.,23,Germany,female,1897-06-23,single,Juarez
+88,Sevey,Mahela,19,E.U. of North,female,1885-05,single,Juarez
+89,Shelfield,Sara A.,40,E.U. of North,female,1891-12,single,Juarez
+91,Hannah,Hannah,36,E.U. of North,female,1885-03,single,Juarez
+95,Slade,Sara A.,30,E.U. of North,female,1890-10-15,single,Juarez
+97,Smith,Margaret J. C.,33,E.U. of North,female,1891-11,single,Juarez
+101,Stowell,Gertrudis,16,E.U. of North,female,1889-12,single,Juarez
+113,VanCott,Fannie V.,48,E.U. of North,female,1885-01,single,Juarez
+114,Wall,Enriquita,20,E.U. of North,female,1891-12-24,single,Juarez
+116,Walker,Ana E.,37,England,female,1892-10-15,single,Juarez
+121,Walser,Maria,20,E.U. of North,female,1890-11,single,Juarez
+126,Woodbury,Ana M.,39,E.U. of North,female,1885-04-12,single,Juarez
+127,Woodmansie,Gladys,33,E.U. of North,female,1894-07,single,Juarez
+128,Wride,Ana J.,34,E.U. of North,female,1889-08,single,Juarez
+130,Smith,Ysabel,34,E.U. of North,female,1891-10,single,Juarez
+131,De la Cruz,Bentura,22,Mexico,female,1895-08-14,single,Juarez

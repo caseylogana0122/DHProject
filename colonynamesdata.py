@@ -42,3 +42,19 @@ def find_highest_frequency_last_name():
 
 # Call the function
 find_highest_frequency_last_name()
+
+#generates a list of the highest frequency last names from each CSV file.
+df = biggest_family = pd.concat([
+    df_chu[df_chu['last_name'].str.lower() == 'johnson'],
+    df_pa[df_pa['last_name'].str.lower() == 'johnson'],
+    df_diaz[df_diaz['last_name'].str.lower() == 'johnson'],
+    df_dublan[df_dublan['last_name'].str.lower() == 'johnson'],
+    df_gar[df_gar['last_name'].str.lower() == 'johnson'], 
+    df_gua[df_gua['last_name'].str.lower() == 'johnson'], 
+    df_juarez[df_juarez['last_name'].str.lower() == 'johnson']
+])
+
+print(biggest_family)
+
+df.to_csv('biggest_family.csv', index=False)
+# This will create a new CSV file named 'biggest_family.csv' with the combined data.

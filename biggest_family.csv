@@ -1,0 +1,89 @@
+fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marriage_status,colony
+9,Johnson,Jorge H.,21,E.U. of North,male,1894,single,Chuichupa
+10,Johnson,Benjaminio A.,41,E.U. of North,male,1895-05-01,married,Chuichupa
+10,Johnson,Ysabel M.,52,E.U. of North,female,1895-05-01,married,Chuichupa
+10,Johnson,Benjaminio L.,18,E.U. of North,male,1895-05-01,,Chuichupa
+10,Johnson,Francisco L.,18,E.U. of North,male,1895-05-01,,Chuichupa
+10,Johnson,Ysabel M.,15,E.U. of North,female,1895-05-01,,Chuichupa
+10,Johnson,Shirley H.,12,E.U. of North,male,1895-05-01,,Chuichupa
+10,Johnson,Vernon R.,7,Mexico,male,,,Chuichupa
+10,Johnson,Annie M.,4,Mexico,female,,,Chuichupa
+10,Johnson,Julio R.,2,Mexico,male,,,Chuichupa
+10,Johnson,Clyde R.,6/12,Mexico,male,,,Chuichupa
+21,Johnson,Jorge,26,E.U. of North,male,1890-01-09,married,Pacheco
+21,Johnson,Ema,21,E.U. of North,female,1890-01-09,married,Pacheco
+21,Johnson,Lydia,2,Mexico,female,,,Pacheco
+21,Johnson,Ema hija,8/12,Mexico,female,,,Pacheco
+46,Johnson,Maria,42,Denmark,female,1892-03,single,Diaz
+47,Johnson,Annie M.,30,E.U. of North,female,1891-04,single,Diaz
+48,Johnson,Juana C.,66,E.U. of North,female,1891-10,widowed,Diaz
+48,Johnson,Hannah J.,25,E.U. of North,female,1891-10,single,Diaz
+49,Johnson,Guillermo D.,48,E.U. of North,male,1885-04-20,married,Diaz
+49,Johnson,Lucia E.,39,E.U. of North,female,1885-04-20,married,Diaz
+49,Johnson,Leno M.,20,E.U. of North,male,1885-04-20,,Diaz
+49,Johnson,Yvan C.,14,E.U. of North,female,1885-04-20,,Diaz
+49,Johnson,Lucia,13,E.U. of North,female,1885-04-20,,Diaz
+49,Johnson,Ruthie,13,E.U. of North,female,1885-04-20,,Diaz
+49,Johnson,Juana C.,12,Mexico,female,,,Diaz
+49,Johnson,Elmer O.,11,Mexico,male,,,Diaz
+49,Johnson,Abia E.,10,Mexico,male,,,Diaz
+49,Johnson,Winnie,10,Mexico,female,,,Diaz
+49,Johnson,Viva,8,Mexico,female,,,Diaz
+49,Johnson,Beryl,7,Mexico,female,,,Diaz
+49,Johnson,Yvy,6,Mexico,female,,,Diaz
+49,Johnson,Ray P.,5,Mexico,male,,,Diaz
+49,Johnson,Bertriz,3,Mexico,female,,,Diaz
+49,Johnson,Lila,2,Mexico,female,,,Diaz
+50,Johnson,Elmer W.,44,E.U. of North,male,1887-11-14,married,Diaz
+50,Johnson,Maria J.,38,E.U. of North,female,1887-11-14,married,Diaz
+50,Johnson,Lulu,18,E.U. of North,female,1887-11-14,married,Diaz
+50,Johnson,Juana C.,15,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Junietta,15,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Julia,13,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Elmer W. hijo,13,E.U. of North,male,1887-11-14,,Diaz
+50,Johnson,Viola L.,11,E.U. of North,female,1887-11-14,,Diaz
+50,Johnson,Abby,10,Mexico,female,,,Diaz
+50,Johnson,Verna,8,Mexico,female,,,Diaz
+50,Johnson,Tessa,8,Mexico,female,,,Diaz
+50,Johnson,Nita,5,Mexico,female,,,Diaz
+50,Johnson,Loran E.,3,Mexico,male,,,Diaz
+50,Johnson,Guillermo D.,3/12,Mexico,male,,,Diaz
+51,Johnson,Ana Mahisa,37,E.U. of North,female,1890-10-01,single,Diaz
+52,Johnson,Abia E.,35,E.U. of North,male,1892-04,married,Diaz
+52,Johnson,Violet B.,26,E.U. of North,female,1892-04,married,Diaz
+52,Johnson,Abia E.,6,Mexico,male,,,Diaz
+52,Johnson,Guillermo W.,4,Mexico,male,,,Diaz
+52,Johnson,Primrose,3,Mexico,male,,,Diaz
+52,Johnson,Santiago B.,6/12,Mexico,male,,,Diaz
+53,Johnson,J. P.,38,E.U. of North,male,1890-04-09,married,Diaz
+53,Johnson,Eliza J.,32,E.U. of North,female,1890-04-09,married,Diaz
+53,Johnson,Evah,14,E.U. of North,female,1890-04-09,,Diaz
+53,Johnson,Juan,12,E.U. of North,male,1890-04-09,,Diaz
+53,Johnson,Etta,12,E.U. of North,female,1890-04-09,,Diaz
+53,Johnson,Adelbert,10,E.U. of North,male,1890-04-09,,Diaz
+53,Johnson,Lucia,8,E.U. of North,female,1890-04-09,,Diaz
+53,Johnson,Berta,6,Mexico,female,,,Diaz
+53,Johnson,Leroy,4,Mexico,male,,,Diaz
+53,Johnson,Nellie,1,Mexico,female,,,Diaz
+40,Johnson,Jose H.,29,E.U. of North,male,1891-11-4,married,Dublan
+40,Johnson,Malinda,24,E.U. of North,female,1891-11-4,married,Dublan
+40,Johnson,Jose H. hijo,7,E.U. of North,male,1891-11-4,,Dublan
+40,Johnson,Flora M.,4,Mexico,female,,,Dublan
+40,Johnson,Ysabel,2,Mexico,female,,,Dublan
+1,Johnson,Herber,43,American,male,1888-07-28,married,Guadaloupe
+1,Johnson,Sara E.,38,American,female,1888-07-28,married,Guadaloupe
+1,Johnson,Vivia E.,18,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Ovphia,17,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Cassie M.,15,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Boyd C.,13,American,male,1888-07-28,,Guadaloupe
+1,Johnson,Ava V.,11,American,female,1888-07-28,,Guadaloupe
+1,Johnson,Harland H.,9,American,male,1888-07-28,,Guadaloupe
+56,Johnson,Ysabel,80,Norway,female,1890-10-15,widowed,Juarez
+56,Johnson,Andres,8,Mexico,male,1890-10-15,,Juarez
+57,Johnson,Ana M.,35,E.U. of North,female,1885-03-21,single,Juarez
+58,Johnson,David E.,29,E.U. of North,male,1885-07-29,widowed,Juarez
+58,Johnson,Maria A.,5,Mexico,female,,,Juarez
+58,Johnson,Rosetta,1,Mexico,female,,,Juarez
+59,Johnson,Syitus H.,24,E.U. of North,male,1885-03,married,Juarez
+59,Johnson,Maggie L.,23,E.U. of North,female,1885-03,married,Juarez
+60,Johnson,Ellis A.,26,E.U. of North,male,1887-02,single,Juarez
