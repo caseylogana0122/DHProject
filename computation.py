@@ -27,7 +27,7 @@ colors = ['pink', 'blue']
 
 total = sum(y)
 def autopct_format(pct):
-    absolute = int(pct/100.*total)
+    absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
 plt.title("Labeled Gender Distribution Throughout Mormon Colonies")
@@ -107,7 +107,7 @@ colors = ['pink', 'green']
 
 total = sum(y)
 def autopct_format(pct):
-    absolute = int(pct/100.*total)
+    absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
 plt.title("Married-to-Single Females Throughout Mormon Colonies")
