@@ -68,7 +68,7 @@ fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marr
 14,Barrell,Yoabel,16,England,female,1890-09-25,single,Juarez
 14,Barrell,Juan,14,England,male,1890-09-25,single,Juarez
 14,Barrell,Jorge,11,E.U. Of North,male,1890-09-25,,Juarez
-15,Cardon,Luis Felipi,65,Stalia,male,03-1885,married,Juarez
+15,Cardon,Luis Felipi,65,Italy,male,03-1885,married,Juarez
 15,Cardon,Sara A.,68,E.U. of North,female,03-1885,married,Juarez
 16,Clayson,Nathan,50,England,male,1890-06,married,Juarez
 16,Clayson,Ana H.,50,England,male,1890-06,married,Juarez
@@ -86,8 +86,8 @@ fam_ID,last_name,first_name,age,nation_of_origin,sex_indicated,date_arrived,marr
 19,Cluff,Orson Leroy,2,Mexico,male,,,Juarez
 19,Cluff,Iven,3/12,Mexico,male,,,Juarez
 20,Cluff,Susana Ana,27,E.U. of America,female,1890-01-01,single,Juarez
-21,Coch,Marimus,15,Dinamarca,male,1895-07,,Juarez
-21,Coch,Patria,14,Dinamarca,female,1895-07,,Juarez
+21,Coch,Marimus,15,Denmark,male,1895-07,,Juarez
+21,Coch,Patria,14,Denmark,female,1895-07,,Juarez
 22,Coombs,Ester,17,E.U. of North,female,1891-06-16,,Juarez
 22,Coombs,Leslie,15,E.U. of North,male,1891-06-16,,Juarez
 23,Coon,Guillermo,57,E.U. of North,male,1889-01,married,Juarez

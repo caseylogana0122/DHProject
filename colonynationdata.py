@@ -11,7 +11,17 @@ df_gua = pd.read_csv('guadaloupe.csv')
 df_juarez = pd.read_csv('juarez.csv')
 df_pa = pd.read_csv('pancheco.csv')
 
-# Function to determine the last name with the highest frequency across CSV files
+#Clean the nation of origin column to ensure consistent formatting
+df_chu['nation_of_origin'] = df_chu['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+df_diaz['nation_of_origin'] = df_diaz['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+df_dublan['nation_of_origin'] = df_dublan['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+df_gar['nation_of_origin'] = df_gar['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+df_gua['nation_of_origin'] = df_gua['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+df_juarez['nation_of_origin'] = df_juarez['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+df_pa['nation_of_origin'] = df_pa['nation_of_origin'].str.strip().str.lower().fillna('unknown')
+
+
+# Function to determine the Nation of Origin with the highest frequency across CSV files
 def find_highest_frequency_nation():
     csv_files = [
         ('chuichupa.csv', df_chu),
@@ -58,7 +68,6 @@ def list_unique_countries_with_frequency():
     nation_counts = {}
 
     for file_name, df in csv_files:
-        # Adjusted to assume names are in the fourth column
         nation = df.iloc[:, 4]
         for name in nation:
             if name in nation_counts:
@@ -73,4 +82,3 @@ def list_unique_countries_with_frequency():
 
 # Call the function
 list_unique_countries_with_frequency()
-
