@@ -101,7 +101,7 @@ female_single_count = (
 )
 print(female_single_count)
 
-#Creating Pie Chart with Labeled Gender Distrubution in Chuichupa Colony
+#Creating Pie Chart with Labeled Married-to-Single Women throughout Mormon Colonies
 y = np.array([female_married_count, female_single_count])
 mylabels = ['Married Females', 'Single Females',]
 colors = ['pink', 'green']
