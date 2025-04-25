@@ -36,14 +36,14 @@ male_single_count = df_chu[
     (df_chu['sex_indicated'] == 'male') &
     (df_chu['marriage_status'] == 'single')
 ].shape[0]
-print("Total labled single males in Chuichupa Colony:", male_single_count)
+print("Total labeled single males in Chuichupa Colony:", male_single_count)
 
 # Count how many times 'male' appears in 'sex_indicated' AND 'married' appears in 'marriage_status'
 male_married_count = df_chu[
     (df_chu['sex_indicated'] == 'male') &
     (df_chu['marriage_status'] == 'married')
 ].shape[0]
-print("Total labled married men in Chuichupa Colony:", male_married_count)
+print("Total labeled married men in Chuichupa Colony:", male_married_count)
 
 #Creating Pie Chart with Total Gender Distrubution in Chuichupa Colony
 y = np.array([female_count, male_count])
