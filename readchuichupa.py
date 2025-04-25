@@ -11,39 +11,39 @@ df_chu['marriage_status'] = df_chu['marriage_status'].str.strip().str.lower().fi
 
 #Count how many women are in the colony
 female_count = df_chu['sex_indicated'].value_counts().get('female', 0)
-print("Total females in Chuichupa:", female_count)
+print("Total labeled females in Chuichupa Colony:", female_count)
 
 #Count how many men are in the colony. 
 male_count = df_chu['sex_indicated'].value_counts().get('male', 0)
-print("Total males in Chuichupa:", male_count)
+print("Total labeled males in Chuichupa Colony:", male_count)
 
 #Count how mnay times 'female' appears in 'sex_indicated' AND 'married' appears in 'marriage_status'
 female_married_count = df_chu[
     (df_chu['sex_indicated'] == 'female') &
     (df_chu['marriage_status'] == 'married')
 ].shape[0]
-print("Total married females in Chuichupa:", female_married_count)
+print("Total labeled married females in Chuichupa Colony:", female_married_count)
 
 # Count how many times 'female' appears in 'sex_indicated' AND 'single' appears in 'marriage_status'
 female_single_count = df_chu[
     (df_chu['sex_indicated'] == 'female') &
     (df_chu['marriage_status'] == 'single')
 ].shape[0]
-print("Total single females in Chuichupa:", female_single_count)
+print("Total labeled single females in Chuichupa Colony:", female_single_count)
 
 # Count how many times 'male' appears in 'sex_indicated' AND 'single' appears in 'marriage_status'
 male_single_count = df_chu[
     (df_chu['sex_indicated'] == 'male') &
     (df_chu['marriage_status'] == 'single')
 ].shape[0]
-print("Total single males in Chuichupa:", male_single_count)
+print("Total labled single males in Chuichupa Colony:", male_single_count)
 
 # Count how many times 'male' appears in 'sex_indicated' AND 'married' appears in 'marriage_status'
 male_married_count = df_chu[
     (df_chu['sex_indicated'] == 'male') &
     (df_chu['marriage_status'] == 'married')
 ].shape[0]
-print("Total married men in Chuichupa:", male_married_count)
+print("Total labled married men in Chuichupa Colony:", male_married_count)
 
 #Creating Pie Chart with Total Gender Distrubution in Chuichupa Colony
 y = np.array([female_count, male_count])

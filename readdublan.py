@@ -11,7 +11,7 @@ df_dublan['marriage_status'] = df_dublan['marriage_status'].str.strip().str.lowe
 
 #Count how many women are in the colony
 female_count = df_dublan['sex_indicated'].str.lower().value_counts().get('female', 0)
-print(female_count)
+print("Total labeled females in Colony Dublan:", female_count)
 
 #Count how many men are in the colony. 
 male_count = df_dublan['sex_indicated'].str.lower().value_counts().get('male', 0)
@@ -22,28 +22,28 @@ female_married_count = df_dublan[
     (df_dublan['sex_indicated'].str.lower() == 'female') &
     (df_dublan['marriage_status'].str.lower() == 'married')
 ].shape[0]
-print(female_married_count)
+print("Total labeled married females in Colony Dublan:", female_married_count)
 
 # Count how many times 'female' appears in 'sex_indicated' AND 'single' appears in 'marriage_status'
 female_single_count = df_dublan[
     (df_dublan['sex_indicated'].str.lower() == 'female') &
     (df_dublan['marriage_status'].str.lower() == 'single')
 ].shape[0]
-print(female_single_count)
+print("Total labeled single females in Colony Dublan:", female_single_count)
 
 # Count how many times 'male' appears in 'sex_indicated' AND 'single' appears in 'marriage_status'
 male_single_count = df_dublan[
     (df_dublan['sex_indicated'].str.lower() == 'male') &
     (df_dublan['marriage_status'].str.lower() == 'single')
 ].shape[0]
-print(male_single_count)
+print("Total labeled single males in Colony Dublan:", male_single_count)
 
 # Count how many times 'male' appears in 'sex_indicated' AND 'married' appears in 'marriage_status'
 male_married_count = df_dublan[
     (df_dublan['sex_indicated'].str.lower() == 'male') &
     (df_dublan['marriage_status'].str.lower() == 'married')
 ].shape[0]
-print(male_married_count)
+print("Total labeled married males in Colony Dublan:", male_married_count)
 
 #Creating Pie Chart with Total Gender Distrubution in Dublan Colony
 y = np.array([female_count, male_count,])
