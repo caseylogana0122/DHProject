@@ -55,11 +55,11 @@ def autopct_format(pct):
     absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
-plt.title("Total Labeled Gender Distribution in Colony Chuichupa")
+plt.title("Total Labeled Sex Distribution in Colony Chuichupa")
 plt.pie(y, labels=mylabels, colors=colors, autopct=autopct_format)
 plt.show()
 
-#Creating Pie Chart with Married to Single Gender Distrubution in Chuichupa Colony
+#Creating Pie Chart with Married to Single Sex Distrubution in Chuichupa Colony
 y = np.array([female_married_count, male_married_count,male_single_count,female_single_count])
 mylabels = ['Married Females', 'Married Males' , 'Single Males', 'Single Females']
 myexplode = (0,0,0.1,0.1)  # explode the 3rd and 4th slice

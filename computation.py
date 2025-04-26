@@ -20,7 +20,7 @@ print(female_count)
 male_count = (df_pa['sex_indicated'].str.lower().value_counts().get('male', 0) + df_chu['sex_indicated'].str.lower().value_counts().get('male', 0) + df_diaz['sex_indicated'].str.lower().value_counts().get('male', 0) + df_dublan['sex_indicated'].str.lower().value_counts().get('male', 0) + df_gar['sex_indicated'].str.lower().value_counts().get('male', 0) + df_gua['sex_indicated'].str.lower().value_counts().get('male', 0) + df_juarez['sex_indicated'].str.lower().value_counts().get('male', 0))
 print(male_count)
 
-#Creating Pie Chart with Labeled Gender Distrubution throughout Mormon Colonies
+#Creating Pie Chart with Labeled Sex Distrubution throughout Mormon Colonies
 y = np.array([female_count, male_count])
 mylabels = ['Females', 'Males',]
 colors = ['pink', 'blue']
@@ -30,7 +30,7 @@ def autopct_format(pct):
     absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
-plt.title("Labeled Gender Distribution Throughout Mormon Colonies")
+plt.title("Labeled Sex Distribution Throughout Mormon Colonies")
 plt.pie(y, labels=mylabels, colors=colors, autopct=autopct_format)
 plt.show()
 

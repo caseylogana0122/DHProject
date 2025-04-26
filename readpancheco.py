@@ -45,7 +45,7 @@ male_married_count = df_pa[
 ].shape[0]
 print("Total labeled married males in Colony Pancheco:", male_married_count)
 
-#Creating Pie Chart with Total Gender Distrubution in Juarez Colony
+#Creating Pie Chart with Total Sex Distrubution in Juarez Colony
 y = np.array([female_count, male_count,])
 mylabels = ['Females', 'Males',]
 colors = ['pink', 'blue']
@@ -55,11 +55,11 @@ def autopct_format(pct):
     absolute = round(pct/100.*total)
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
-plt.title("Total Gender Distribution in Colony Pancheco")
+plt.title("Total Sex Distribution in Colony Pancheco")
 plt.pie(y, labels=mylabels, colors=colors, autopct=autopct_format)
 plt.show()
 
-#Creating Pie Chart with Married to Single Gender Distrubution in Juarez Colony
+#Creating Pie Chart with Married to Single Sex Distrubution in Juarez Colony
 y = np.array([female_married_count, male_married_count,male_single_count,female_single_count])
 mylabels = ['Married Females', 'Married Males' , 'Single Males', 'Single Females']
 myexplode = (0,0,0.1,0.1)  # explode the 3rd and 4th slice
